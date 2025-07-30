@@ -26,7 +26,7 @@
         const pageSize = 5;
 
         async function fetchVocab() {
-            const res = await fetch('/api/vocab');
+            const res = await fetch('/api/vocab'); // Sử dụng API Flask
             vocabData = await res.json();
             currentPage = 0;
             displayWords();

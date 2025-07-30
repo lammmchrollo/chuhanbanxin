@@ -1,11 +1,11 @@
 [
     {
-        "japanese": "猫",
-        "phonetic": "Neko",
-        "vietnamese": "Mèo",
-        "example": "猫が好きです。",
-        "example_meaning": "Tôi thích mèo。",
-        "image": "https://placekitten.com/300/200"
+        "japanese": "男性",
+        "phonetic": "だんせい",
+        "vietnamese": "NAM GIỚI",
+        "example": "理想の{男性/女性}と結婚する",
+        "example_meaning": "Kết hôn với người đàn ông/phụ nữ lý tưởng",
+        "image": "/static/z6403997862411_bd8f6c632fe5a2001a89ef06b09a408d.jpg"
     },
     {
         "japanese": "犬",
