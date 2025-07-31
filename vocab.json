@@ -5,15 +5,15 @@
         "vietnamese": "NAM GIỚI",
         "example": "理想の{男性/女性}と結婚する",
         "example_meaning": "Kết hôn với người đàn ông/phụ nữ lý tưởng",
-        "image": "/static/z6403997862411_bd8f6c632fe5a2001a89ef06b09a408d.jpg"
+        "image": "/static/2 (1).png"
     },
     {
-        "japanese": "犬",
-        "phonetic": "Inu",
-        "vietnamese": "Chó",
-        "example": "犬は友達です。",
-        "example_meaning": "Chó là bạn。",
-        "image": "https://placedog.net/300/200?id=1"
+        "japanese": "女性",
+        "phonetic": "じょせい",
+        "vietnamese": "NỮ GIỚI",
+        "example": "あの {O 女性/O 女の人/X 女} はだれですか",
+        "example_meaning": "Người con gái/phụ nữ kia là ai? ",
+        "image": " "
     },
     {
         "japanese": "花",
@@ -79,4 +79,92 @@
         "example_meaning": "",
         "image": ""
     }
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    }{
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    }
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    }
+      
 ]
