@@ -160,12 +160,805 @@
         "image": ""
     },
     {
+        "japanese": "進学",
+        "phonetic": "しんがく",
+        "vietnamese": "(TIẾN HỌC) Học lên",
+        "example": "こどもの進学について考える。",
+        "example_meaning": "Tôi suy nghĩ về việc học lên của con.",
+        "image": ""
+    },
+    {
+        "japanese": "退学スル",
+        "phonetic": "たいがく",
+        "vietnamese": "(THOÁI HỌC) Sự bỏ học",
+        "example": "退学の理由を説明する。",
+        "example_meaning": "退学の理由を説明する。",
+        "image": ""
+    },
+    {
+        "japanese": "就職スル",
+        "phonetic": "しゅうしょく",
+        "vietnamese": "(TỰU CHỨC) Sự tìm việc",
+        "example": "旅行会社に就職する。",
+        "example_meaning": "Xin việc ở công ty du lịch.",
+        "image": ""
+    },
+    {
+        "japanese": "退職スル",
+        "phonetic": "たいしょく",
+        "vietnamese": "(THOÁI CHỨC) Nghỉ việc",
+        "example": "母の介護のため、退職を決めた。",
+        "example_meaning": "Tôi quyết định nghỉ việc để chăm sóc mẹ.",
+        "image": ""
+    },
+    {
+        "japanese": "失業スル",
+        "phonetic": "しつぎょう",
+        "vietnamese": "(THẤT NGHIỆP) Thất nghiệp",
+        "example": "会社が倒産して失業した。",
+        "example_meaning": "Công ty phá sản, tôi bị thất nghiệp.",
+        "image": ""
+    },
+    {
+        "japanese": "残業 (スル) ",
+        "phonetic": "ざんぎょう ",
+        "vietnamese": "(TÀN NGHIỆP) Làm thêm giờ ",
+        "example": "残業が多くて疲れた。 ",
+        "example_meaning": "Làm thêm giờ nhiều quá nên mệt. ",
+        "image": ""
+    },
+    {
+        "japanese": "生活 (スル) ",
+        "phonetic": "せいかつ ",
+        "vietnamese": "(SINH HOẠT) Cuộc sống, sinh hoạt ",
+        "example": "健康的な生活を送る。",
+        "example_meaning": "Sống cuộc sống lành mạnh. ",
+        "image": ""
+    },
+    {
+        "japanese": "通勤(スル) ",
+        "phonetic": "つうきん ",
+        "vietnamese": "(THÔNG CẦN) Đi làm (đi và về) ",
+        "example": "私は毎日一時間かけて通勤している。",
+        "example_meaning": "Hàng ngày tôi mất 1 tiếng đi làm. ",
+        "image": ""
+    },
+    {
+        "japanese": "学歴 ",
+        "phonetic": "がくれき ",
+        "vietnamese": "(HỌC LỊCH) Bằng cấp, quá trình học tập ",
+        "example": "学歴が高くても、実力があるかどうかはわからない。",
+        "example_meaning": "Bằng cấp cho dù có cao nhưng mà thực lực có hay không thì không biết. ",
+        "image": ""
+    },
+    {
+        "japanese": "給料 ",
+        "phonetic": "きゅうりょう ",
+        "vietnamese": "(CẤP LIỆU) Tiền lương",
+        "example": "会社から給料をもらう。",
+        "example_meaning": "Nhận lương từ công ty. ",
+        "image": ""
+    },
+    {
+        "japanese": "面接 (スル) ",
+        "phonetic": "めんせつ",
+        "vietnamese": "(DIỆN TIẾP) Phỏng vấn ",
+        "example": "先生が学生を面接する。 ",
+        "example_meaning": "Giáo viên phỏng vấn học sinh. ",
+        "image": ""
+    },
+    {
+        "japanese": "休憩 (スル) ",
+        "phonetic": "きゅうけい ",
+        "vietnamese": "(HƯU KHẾ) Nghỉ giải lao ",
+        "example": "「ではここで、10分間の休憩です」",
+        "example_meaning": "Nghỉ giải lao 10 phút tại đây. ",
+        "image": ""
+    },
+    {
+        "japanese": "観光 (スル) ",
+        "phonetic": "かんこう ",
+        "vietnamese": "(QUAN QUANG) Tham quan, du lịch ",
+        "example": "「来日の目的は観光です」 ",
+        "example_meaning": "Mục đích đến Nhật của tôi là để du lịch. ",
+        "image": ""
+    },
+    {
+        "japanese": "遅刻 (スル) ",
+        "phonetic": "ちこく ",
+        "vietnamese": "(TRÌ KHẮC) Đến muộn ",
+        "example": "寝坊して授業に遅刻する。",
+        "example_meaning": "Vì ngủ quên nên đến lớp muộn. ",
+        "image": ""
+    },
+    {
+        "japanese": "化粧 (スル) ",
+        "phonetic": "けしょう ",
+        "vietnamese": "(HÓA TRANG) Trang điểm ",
+        "example": "「あなたは毎日、お化粧に何分ぐらいかけていますか」 ",
+        "example_meaning": "Hàng ngày, bạn mất bao nhiêu phút để trang điểm. ",
+        "image": ""
+    },
+    {
+        "japanese": "計算 (スル) ",
+        "phonetic": "けいさん ",
+        "vietnamese": "(KẾ TOÁN) Tính toán, thanh toán ",
+        "example": "私は計算が苦手だ。",
+        "example_meaning": "Tôi rất kém tính toán. ",
+        "image": ""
+    },
+    {
+        "japanese": "計画 (スル) ",
+        "phonetic": "けいかく ",
+        "vietnamese": "(KẾ HỌA) Kế hoạch ",
+        "example": "来年の計画を立てる。",
+        "example_meaning": "Lập kế hoạch cho năm sau. ",
+        "image": ""
+    },
+    {
+        "japanese": "成功(スル) ",
+        "phonetic": "せいこう ",
+        "vietnamese": "(THÀNH CÔNG) Thành công ",
+        "example": "実験に成功する。 ",
+        "example_meaning": "Thí nghiệm thành công. ",
+        "image": ""
+    },
+    {
+        "japanese": "失敗(スル)",
+        "phonetic": "しっぱい ",
+        "vietnamese": "(THẤT BẠI) Thất bại ",
+        "example": "実験はだ成功だった。",
+        "example_meaning": "Thí nghiệm đại thành công. ",
+        "image": ""
+    },
+    {
+        "japanese": "帰国(スル) ",
+        "phonetic": "きこく ",
+        "vietnamese": "(QUY QUỐC) Về nước ",
+        "example": "今度の正月には帰国するつもりだ。",
+        "example_meaning": "Tôi dự định về nước vào dịp Tết lần này. ",
+        "image": ""
+    },
+    {
+        "japanese": "帰省 (スル) ",
+        "phonetic": "きせい ",
+        "vietnamese": "(QUY TỈNH) Về quê ",
+        "example": "お盆にはふるさとに帰省する日本人が多い。",
+        "example_meaning": "Người Nhật về quê trong dịp lễ hội Obon rất nhiều. ",
+        "image": ""
+    },
+    {
+        "japanese": "帰宅(スル) ",
+        "phonetic": "きたく ",
+        "vietnamese": "(QUY TRẠCH) Về nhà",
+        "example": "毎日忙しくて帰宅が遅い。",
+        "example_meaning": "Hàng ngày vì tôi bận nên về nhà muộn.",
+        "image": ""
+    },
+    {
+        "japanese": "参加 (スル) ",
+        "phonetic": "さんか ",
+        "vietnamese": "Tham gia ",
+        "example": "ボランティア活動に参加する。",
+        "example_meaning": "Tôi tham gia hoạt động tình nguyện. ",
+        "image": ""
+    },
+    {
+        "japanese": "出席 (スル) ",
+        "phonetic": "しゅっせき ",
+        "vietnamese": "XUẤT TỊCH) Tham gia, có mặt ",
+        "example": "ミーティングに出席する。",
+        "example_meaning": "Tham dự cuộc gặp gỡ.",
+        "image": ""
+    },
+    {
+        "japanese": "欠席スル ",
+        "phonetic": "けっせき ",
+        "vietnamese": "(KHUYẾT TỊCH) Vắng mặt ",
+        "example": "授業を欠席する。",
+        "example_meaning": "Vắng mặt trong giờ học. ",
+        "image": ""
+    },
+    {
+        "japanese": "準備 (スル) ",
+        "phonetic": "じゅんび ",
+        "vietnamese": "(CHUẨN BỊ) Chuẩn bị ",
+        "example": "引っ越しの準備が終わった。",
+        "example_meaning": "Sự chuẩn bị cho việc chuyển nhà đã xong",
+        "image": ""
+    },
+    {
+        "japanese": "整理 (スル)  ",
+        "phonetic": "せいり ",
+        "vietnamese": "(CHỈNH LÝ) Sắp xếp, vứt bỏ ",
+        "example": "資料の整理 ",
+        "example_meaning": "Sắp xếp tài liệu  ",
+        "image": ""
+    },
+    {
+        "japanese": "注文 (スル) ",
+        "phonetic": "ちゅうもん ",
+        "vietnamese": "(TRÚ VĂN) Đặt hàng, gọi đồ, yêu cầu ",
+        "example": "注文の品が届く。",
+        "example_meaning": "Hàng đã đặt sẽ được gửi tới. ",
+        "image": ""
+    },
+    {
+        "japanese": "貯金 (スル) ",
+        "phonetic": "ちょきん ",
+        "vietnamese": "(TRỮ KIM) Tiền tiết kiệm, gửi tiền tiết kiệm ",
+        "example": "貯金が増える。 ",
+        "example_meaning": "Tiền tiết kiệm tăng lên. ",
+        "image": ""
+    },
+    {
+        "japanese": "徹夜 (スル) ",
+        "phonetic": "てつや ",
+        "vietnamese": "(TRIỆT DẠ) Thức suốt đêm ",
+        "example": "徹夜で勉強する。",
+        "example_meaning": "Học suốt đêm không ngủ. ",
+        "image": ""
+    },
+    {
+        "japanese": "引っ越し (スル) ",
+        "phonetic": "ひっこし ",
+        "vietnamese": "(DẪN VIỆT) Chuyển nhà ",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
         "japanese": "",
         "phonetic": "",
         "vietnamese": "",
         "example": "",
         "example_meaning": "",
         "image": ""
-    }
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
+    {
+        "japanese": "",
+        "phonetic": "",
+        "vietnamese": "",
+        "example": "",
+        "example_meaning": "",
+        "image": ""
+    },
       
 ]
