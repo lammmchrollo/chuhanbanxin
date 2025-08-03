@@ -2,7 +2,7 @@
     {
         "japanese": "男性",
         "phonetic": "だんせい",
-        "vietnamese": "NAM GIỚI",
+        "vietnamese": "(NAM GIỚI) Nam giới",
         "example": "理想の{男性/女性}と結婚する",
         "example_meaning": "Kết hôn với người đàn ông/phụ nữ lý tưởng",
         "image": "/static/2 (1).png"
@@ -10,153 +10,153 @@
     {
         "japanese": "女性",
         "phonetic": "じょせい",
-        "vietnamese": "NỮ GIỚI",
+        "vietnamese": "(NỮ GIỚI) Nữ giới",
         "example": "あの {O 女性/O 女の人/X 女} はだれですか",
-        "example_meaning": "Người con gái/phụ nữ kia là ai? ",
-        "image": " "
+        "example_meaning": "Người con gái/phụ nữ kia là ai?",
+        "image": ""
     },
     {
         "japanese": "高齢",
         "phonetic": "こうれい",
-        "vietnamese": "Tuổi cao",
+        "vietnamese": "(CAO LINH) Tuổi cao",
         "example": "祖母は高齢だが、まだとても元気だ。",
         "example_meaning": "Bà tôi tuy tuổi cao nhưng vẫn rất khỏe.",
-        "image": "  "
+        "image": ""
     },
     {
         "japanese": "年上",
         "phonetic": "としうえ",
-        "vietnamese": "Lớn tuổi hơn-NIÊN THƯỢNG ",
+        "vietnamese": "(NIÊN THƯỢNG) Lớn tuổi hơn",
         "example": "彼女は私{より/の}三つ年上だ。",
-        "example_meaning": "Cô ấy hơn tôi 3 tuổi. ",
-        "image": "    "
+        "example_meaning": "Cô ấy hơn tôi 3 tuổi.",
+        "image": ""
     },
     {
-        "japanese": "目上 ",
-        "phonetic": "めうえ ",
-        "vietnamese": "Cấp trên, người trên - MỤC THƯỢNG",
+        "japanese": "目上",
+        "phonetic": "めうえ",
+        "vietnamese": "(MỤC THƯỢNG) Cấp trên, người trên",
         "example": "目上の人には敬語で話したほうがいい。",
         "example_meaning": "Đối với người bề trên nên nói chuyện bằng kính ngữ thì tốt.",
-        "image": "   "
+        "image": ""
     },
     {
         "japanese": "先輩",
-        "phonetic": "んぱい",
-        "vietnamese": "(TIÊN BỐI) Người đi trước ",
-        "example": " hổng cóa",
-        "example_meaning": " không cóa",
-        "image": " "
+        "phonetic": "せんぱい",
+        "vietnamese": "(TIÊN BỐI) Người đi trước",
+        "example": "私と彼は同じ年だが、職場では彼のほうが先輩だ。",
+        "example_meaning": "Tôi và anh bằng tuổi tuy nhiên ở nơi làm việc anh ấy là tiền bối.",
+        "image": ""
     },
     {
-        "japanese": "後輩 ",
-        "phonetic": "こうはい ",
-        "vietnamese": "(HẬU BỐI) Người đi sau ",
+        "japanese": "後輩",
+        "phonetic": "こうはい",
+        "vietnamese": "(HẬU BỐI) Người đi sau",
         "example": "私と彼は同じ年だが、職場では彼のほうが先輩だ。",
-        "example_meaning": "Tôi và anh bằng tuổi tuy nhiên ở nơi làm việc anh ấy là tiền bối. ",
+        "example_meaning": "Tôi và anh bằng tuổi tuy nhiên ở nơi làm việc anh ấy là tiền bối.",
         "image": ""
     },
     {
         "japanese": "上司",
-        "phonetic": "じょうし ",
-        "vietnamese": "(THƯỢNG THỨ) Ông chủ, cấp trên ",
-        "example": "上司に相談してから決定する。 ",
-        "example_meaning": "Tôi sẽ trao đổi với cấp trên rồi quyết định. ",
+        "phonetic": "じょうし",
+        "vietnamese": "(THƯỢNG THỨ) Ông chủ, cấp trên",
+        "example": "上司に相談してから決定する。",
+        "example_meaning": "Tôi sẽ trao đổi với cấp trên rồi quyết định.",
         "image": ""
     },
     {
-        "japanese": "相手 ",
-        "phonetic": "あいて ",
-        "vietnamese": "(TƯƠNG THỦ) Đối phương ",
-        "example": "相手の目を見て話す。 ",
-        "example_meaning": "Nhìn vào mắt của đối phương nói chuyện. ",
+        "japanese": "相手",
+        "phonetic": "あいて",
+        "vietnamese": "(TƯƠNG THỦ) Đối phương",
+        "example": "相手の目を見て話す。",
+        "example_meaning": "Nhìn vào mắt của đối phương nói chuyện.",
         "image": ""
     },
     {
-        "japanese": "知り合い ",
-        "phonetic": "しりあい ",
-        "vietnamese": "(TRI HỢP) Người quen ",
-        "example": "知り合いに息子の就職を頼む。 ",
-        "example_meaning": "Nhờ người quen xin việc cho con trai. ",
+        "japanese": "知り合い",
+        "phonetic": "しりあい",
+        "vietnamese": "(TRI HỢP) Người quen",
+        "example": "知り合いに息子の就職を頼む。",
+        "example_meaning": "Nhờ người quen xin việc cho con trai.",
         "image": ""
     },
     {
-        "japanese": "友人 ",
-        "phonetic": "ゆうじん ",
-        "vietnamese": "(HỮU NHÂN) Bạn ",
+        "japanese": "友人",
+        "phonetic": "ゆうじん",
+        "vietnamese": "(HỮU NHÂN) Bạn",
         "example": "「友人を知っていますか」「ええ、学生時代の友人です」",
-        "example_meaning": "Bạn có biết anh không? Có, anh ý là bạn thời đại học. ",
+        "example_meaning": "Bạn có biết anh không? Có, anh ý là bạn thời đại học.",
         "image": ""
     },
     {
         "japanese": "仲",
-        "phonetic": "なか ",
-        "vietnamese": "(TRỌNG) Quan hệ ",
-        "example": "私は山本さんと仲がいい。 ",
-        "example_meaning": "Tôi và anh Yamamoto có quan hệ tốt. ",
+        "phonetic": "なか",
+        "vietnamese": "(TRỌNG) Quan hệ",
+        "example": "私は山本さんと仲がいい。",
+        "example_meaning": "Tôi và anh Yamamoto có quan hệ tốt.",
         "image": ""
     },
     {
-        "japanese": "生年月日 ",
-        "phonetic": "せいねんがっぴ ",
-        "vietnamese": "(SINH NIÊN NGUYỆT NHẬT) Ngày tháng năm sinh ",
-        "example": "書類に生年月日を記入する。 ",
-        "example_meaning": "Điền ngày tháng năm sinh vào tài liệu. ",
+        "japanese": "生年月日",
+        "phonetic": "せいねんがっぴ",
+        "vietnamese": "(SINH NIÊN NGUYỆT NHẬT) Ngày tháng năm sinh",
+        "example": "書類に生年月日を記入する。",
+        "example_meaning": "Điền ngày tháng năm sinh vào tài liệu.",
         "image": ""
     },
     {
-        "japanese": "誕生 ",
-        "phonetic": "たんじょう ",
-        "vietnamese": "(ĐẢN SINH) Sự ra đời ",
+        "japanese": "誕生",
+        "phonetic": "たんじょう",
+        "vietnamese": "(ĐẢN SINH) Sự ra đời",
         "example": "新しい命の誕生を祝う。",
-        "example_meaning": "Tôi cầu nguyện cho sự ra đời của sinh mệnh mới. ",
+        "example_meaning": "Tôi cầu nguyện cho sự ra đời của sinh mệnh mới.",
         "image": ""
     },
     {
-        "japanese": "年 ",
-        "phonetic": "とし ",
-        "vietnamese": "NIÊN) Năm ",
-        "example": "父は年より若く見える。 ",
-        "example_meaning": "Bố tôi nhìn trẻ hơn so với tuổi. ",
+        "japanese": "年",
+        "phonetic": "とし",
+        "vietnamese": "(NIÊN) Năm",
+        "example": "父は年より若く見える。",
+        "example_meaning": "Bố tôi nhìn trẻ hơn so với tuổi.",
         "image": ""
     },
     {
-        "japanese": "出身 ",
-        "phonetic": "しゅっしん ",
-        "vietnamese": "(XUẤT THÂN) Xuất thân, gốc gác ",
+        "japanese": "出身",
+        "phonetic": "しゅっしん",
+        "vietnamese": "(XUẤT THÂN) Xuất thân, gốc gác",
         "example": "ご出身はどちらですか」「東京です」",
-        "example_meaning": "Bạn đến từ đâu? Đến từ Tokyo. ",
+        "example_meaning": "Bạn đến từ đâu? Đến từ Tokyo.",
         "image": ""
     },
     {
-        "japanese": "故郷 ",
-        "phonetic": "こきょう ",
-        "vietnamese": "(CỐ HƯƠNG) Quê hương ",
-        "example": "仕事が忙しくて、もう何年も故郷に帰っていない。 ",
-        "example_meaning": "Vì công việc rất bận, đã mấy năm rồi chưa về quê. ",
+        "japanese": "故郷",
+        "phonetic": "こきょう",
+        "vietnamese": "(CỐ HƯƠNG) Quê hương",
+        "example": "仕事が忙しくて、もう何年も故郷に帰っていない。",
+        "example_meaning": "Vì công việc rất bận, đã mấy năm rồi chưa về quê.",
         "image": ""
     },
     {
-        "japanese": "成長スル ",
+        "japanese": "成長スル",
         "phonetic": "せいちょう",
-        "vietnamese": "(THÀNH CÔNG) Sinh trưởng, phát triển ",
-        "example": "事業の成長 ",
-        "example_meaning": "Phát triển sự nghiệp ",
+        "vietnamese": "(THÀNH CÔNG) Sinh trưởng, phát triển",
+        "example": "事業の成長",
+        "example_meaning": "Phát triển sự nghiệp",
         "image": ""
     },
     {
-        "japanese": "成人スル ",
-        "phonetic": "せいじん ",
-        "vietnamese": "(THÀNH NHÂN) Người trưởng thành ",
+        "japanese": "成人スル",
+        "phonetic": "せいじん",
+        "vietnamese": "(THÀNH NHÂN) Người trưởng thành",
         "example": "日本では二十歳以上の人を成人という。",
-        "example_meaning": "Ở Nhật Bản người trên 20 tuổi được gọi là người trưởng thành. ",
+        "example_meaning": "Ở Nhật Bản người trên 20 tuổi được gọi là người trưởng thành.",
         "image": ""
     },
     {
-        "japanese": "合格スル ",
-        "phonetic": "ごうかく ",
-        "vietnamese": "(HỢP CÁCH) Thi đỗ, trúng tuyển ",
-        "example": "{大学/入学/検査...}に合格する。 ",
-        "example_meaning": "Đỗ đại học/kì thi nhập học/bài kiểm tra... ",
+        "japanese": "合格スル",
+        "phonetic": "ごうかく",
+        "vietnamese": "(HỢP CÁCH) Thi đỗ, trúng tuyển",
+        "example": "{大学/入学/検査...}に合格する。",
+        "example_meaning": "Đỗ đại học/kì thi nhập học/bài kiểm tra...",
         "image": ""
     },
     {
@@ -172,7 +172,7 @@
         "phonetic": "たいがく",
         "vietnamese": "(THOÁI HỌC) Sự bỏ học",
         "example": "退学の理由を説明する。",
-        "example_meaning": "退学の理由を説明する。",
+        "example_meaning": "Tôi sẽ giải thích về lí do nghỉ học.",
         "image": ""
     },
     {
@@ -200,765 +200,372 @@
         "image": ""
     },
     {
-        "japanese": "残業 (スル) ",
-        "phonetic": "ざんぎょう ",
-        "vietnamese": "(TÀN NGHIỆP) Làm thêm giờ ",
-        "example": "残業が多くて疲れた。 ",
-        "example_meaning": "Làm thêm giờ nhiều quá nên mệt. ",
+        "japanese": "残業 (スル)",
+        "phonetic": "ざんぎょう",
+        "vietnamese": "(TÀN NGHIỆP) Làm thêm giờ",
+        "example": "残業が多くて疲れた。",
+        "example_meaning": "Làm thêm giờ nhiều quá nên mệt.",
         "image": ""
     },
     {
-        "japanese": "生活 (スル) ",
-        "phonetic": "せいかつ ",
-        "vietnamese": "(SINH HOẠT) Cuộc sống, sinh hoạt ",
+        "japanese": "生活 (スル)",
+        "phonetic": "せいかつ",
+        "vietnamese": "(SINH HOẠT) Cuộc sống, sinh hoạt",
         "example": "健康的な生活を送る。",
-        "example_meaning": "Sống cuộc sống lành mạnh. ",
+        "example_meaning": "Sống cuộc sống lành mạnh.",
         "image": ""
     },
     {
-        "japanese": "通勤(スル) ",
-        "phonetic": "つうきん ",
-        "vietnamese": "(THÔNG CẦN) Đi làm (đi và về) ",
+        "japanese": "通勤(スル)",
+        "phonetic": "つうきん",
+        "vietnamese": "(THÔNG CẦN) Đi làm (đi và về)",
         "example": "私は毎日一時間かけて通勤している。",
-        "example_meaning": "Hàng ngày tôi mất 1 tiếng đi làm. ",
+        "example_meaning": "Hàng ngày tôi mất 1 tiếng đi làm.",
         "image": ""
     },
     {
-        "japanese": "学歴 ",
-        "phonetic": "がくれき ",
-        "vietnamese": "(HỌC LỊCH) Bằng cấp, quá trình học tập ",
+        "japanese": "学歴",
+        "phonetic": "がくれき",
+        "vietnamese": "(HỌC LỊCH) Bằng cấp, quá trình học tập",
         "example": "学歴が高くても、実力があるかどうかはわからない。",
-        "example_meaning": "Bằng cấp cho dù có cao nhưng mà thực lực có hay không thì không biết. ",
+        "example_meaning": "Bằng cấp cho dù có cao nhưng mà thực lực có hay không thì không biết.",
         "image": ""
     },
     {
-        "japanese": "給料 ",
-        "phonetic": "きゅうりょう ",
+        "japanese": "給料",
+        "phonetic": "きゅうりょう",
         "vietnamese": "(CẤP LIỆU) Tiền lương",
         "example": "会社から給料をもらう。",
-        "example_meaning": "Nhận lương từ công ty. ",
+        "example_meaning": "Nhận lương từ công ty.",
         "image": ""
     },
     {
-        "japanese": "面接 (スル) ",
+        "japanese": "面接 (スル)",
         "phonetic": "めんせつ",
-        "vietnamese": "(DIỆN TIẾP) Phỏng vấn ",
-        "example": "先生が学生を面接する。 ",
-        "example_meaning": "Giáo viên phỏng vấn học sinh. ",
+        "vietnamese": "(DIỆN TIẾP) Phỏng vấn",
+        "example": "先生が学生を面接する。",
+        "example_meaning": "Giáo viên phỏng vấn học sinh.",
         "image": ""
     },
     {
-        "japanese": "休憩 (スル) ",
-        "phonetic": "きゅうけい ",
-        "vietnamese": "(HƯU KHẾ) Nghỉ giải lao ",
+        "japanese": "休憩 (スル)",
+        "phonetic": "きゅうけい",
+        "vietnamese": "(HƯU KHẾ) Nghỉ giải lao",
         "example": "「ではここで、10分間の休憩です」",
-        "example_meaning": "Nghỉ giải lao 10 phút tại đây. ",
+        "example_meaning": "Nghỉ giải lao 10 phút tại đây.",
         "image": ""
     },
     {
-        "japanese": "観光 (スル) ",
-        "phonetic": "かんこう ",
-        "vietnamese": "(QUAN QUANG) Tham quan, du lịch ",
-        "example": "「来日の目的は観光です」 ",
-        "example_meaning": "Mục đích đến Nhật của tôi là để du lịch. ",
+        "japanese": "観光 (スル)",
+        "phonetic": "かんこう",
+        "vietnamese": "(QUAN QUANG) Tham quan, du lịch",
+        "example": "「来日の目的は観光です」",
+        "example_meaning": "Mục đích đến Nhật của tôi là để du lịch.",
         "image": ""
     },
     {
-        "japanese": "遅刻 (スル) ",
-        "phonetic": "ちこく ",
-        "vietnamese": "(TRÌ KHẮC) Đến muộn ",
+        "japanese": "遅刻 (スル)",
+        "phonetic": "ちこく",
+        "vietnamese": "(TRÌ KHẮC) Đến muộn",
         "example": "寝坊して授業に遅刻する。",
-        "example_meaning": "Vì ngủ quên nên đến lớp muộn. ",
+        "example_meaning": "Vì ngủ quên nên đến lớp muộn.",
         "image": ""
     },
     {
-        "japanese": "化粧 (スル) ",
-        "phonetic": "けしょう ",
-        "vietnamese": "(HÓA TRANG) Trang điểm ",
-        "example": "「あなたは毎日、お化粧に何分ぐらいかけていますか」 ",
-        "example_meaning": "Hàng ngày, bạn mất bao nhiêu phút để trang điểm. ",
+        "japanese": "化粧 (スル)",
+        "phonetic": "けしょう",
+        "vietnamese": "(HÓA TRANG) Trang điểm",
+        "example": "「あなたは毎日、お化粧に何分ぐらいかけていますか」",
+        "example_meaning": "Hàng ngày, bạn mất bao nhiêu phút để trang điểm.",
         "image": ""
     },
     {
-        "japanese": "計算 (スル) ",
-        "phonetic": "けいさん ",
-        "vietnamese": "(KẾ TOÁN) Tính toán, thanh toán ",
+        "japanese": "計算 (スル)",
+        "phonetic": "けいさん",
+        "vietnamese": "(KẾ TOÁN) Tính toán, thanh toán",
         "example": "私は計算が苦手だ。",
-        "example_meaning": "Tôi rất kém tính toán. ",
+        "example_meaning": "Tôi rất kém tính toán.",
         "image": ""
     },
     {
-        "japanese": "計画 (スル) ",
-        "phonetic": "けいかく ",
-        "vietnamese": "(KẾ HỌA) Kế hoạch ",
+        "japanese": "計画 (スル)",
+        "phonetic": "けいかく",
+        "vietnamese": "(KẾ HỌA) Kế hoạch",
         "example": "来年の計画を立てる。",
-        "example_meaning": "Lập kế hoạch cho năm sau. ",
+        "example_meaning": "Lập kế hoạch cho năm sau.",
         "image": ""
     },
     {
-        "japanese": "成功(スル) ",
-        "phonetic": "せいこう ",
-        "vietnamese": "(THÀNH CÔNG) Thành công ",
-        "example": "実験に成功する。 ",
-        "example_meaning": "Thí nghiệm thành công. ",
+        "japanese": "成功(スル)",
+        "phonetic": "せいこう",
+        "vietnamese": "(THÀNH CÔNG) Thành công",
+        "example": "実験に成功する。",
+        "example_meaning": "Thí nghiệm thành công.",
         "image": ""
     },
     {
         "japanese": "失敗(スル)",
-        "phonetic": "しっぱい ",
-        "vietnamese": "(THẤT BẠI) Thất bại ",
-        "example": "実験はだ成功だった。",
-        "example_meaning": "Thí nghiệm đại thành công. ",
+        "phonetic": "しっぱい",
+        "vietnamese": "(THẤT BẠI) Thất bại",
+        "example": "実験は大失敗だった。",
+        "example_meaning": "Thí nghiệm đã thất bại thảm hại.",
         "image": ""
     },
     {
-        "japanese": "帰国(スル) ",
-        "phonetic": "きこく ",
-        "vietnamese": "(QUY QUỐC) Về nước ",
+        "japanese": "帰国(スル)",
+        "phonetic": "きこく",
+        "vietnamese": "(QUY QUỐC) Về nước",
         "example": "今度の正月には帰国するつもりだ。",
-        "example_meaning": "Tôi dự định về nước vào dịp Tết lần này. ",
+        "example_meaning": "Tôi dự định về nước vào dịp Tết lần này.",
         "image": ""
     },
     {
-        "japanese": "帰省 (スル) ",
-        "phonetic": "きせい ",
-        "vietnamese": "(QUY TỈNH) Về quê ",
+        "japanese": "帰省 (スル)",
+        "phonetic": "きせい",
+        "vietnamese": "(QUY TỈNH) Về quê",
         "example": "お盆にはふるさとに帰省する日本人が多い。",
-        "example_meaning": "Người Nhật về quê trong dịp lễ hội Obon rất nhiều. ",
+        "example_meaning": "Người Nhật về quê trong dịp lễ hội Obon rất nhiều.",
         "image": ""
     },
     {
-        "japanese": "帰宅(スル) ",
-        "phonetic": "きたく ",
+        "japanese": "帰宅(スル)",
+        "phonetic": "きたく",
         "vietnamese": "(QUY TRẠCH) Về nhà",
         "example": "毎日忙しくて帰宅が遅い。",
         "example_meaning": "Hàng ngày vì tôi bận nên về nhà muộn.",
         "image": ""
     },
     {
-        "japanese": "参加 (スル) ",
-        "phonetic": "さんか ",
-        "vietnamese": "Tham gia ",
+        "japanese": "参加 (スル)",
+        "phonetic": "さんか",
+        "vietnamese": "(THAM GIA) Tham gia",
         "example": "ボランティア活動に参加する。",
-        "example_meaning": "Tôi tham gia hoạt động tình nguyện. ",
+        "example_meaning": "Tôi tham gia hoạt động tình nguyện.",
         "image": ""
     },
     {
-        "japanese": "出席 (スル) ",
-        "phonetic": "しゅっせき ",
-        "vietnamese": "XUẤT TỊCH) Tham gia, có mặt ",
+        "japanese": "出席 (スル)",
+        "phonetic": "しゅっせき",
+        "vietnamese": "(XUẤT TỊCH) Tham gia, có mặt",
         "example": "ミーティングに出席する。",
         "example_meaning": "Tham dự cuộc gặp gỡ.",
         "image": ""
     },
     {
-        "japanese": "欠席スル ",
-        "phonetic": "けっせき ",
-        "vietnamese": "(KHUYẾT TỊCH) Vắng mặt ",
+        "japanese": "欠席スル",
+        "phonetic": "けっせき",
+        "vietnamese": "(KHUYẾT TỊCH) Vắng mặt",
         "example": "授業を欠席する。",
-        "example_meaning": "Vắng mặt trong giờ học. ",
+        "example_meaning": "Vắng mặt trong giờ học.",
         "image": ""
     },
     {
-        "japanese": "準備 (スル) ",
-        "phonetic": "じゅんび ",
-        "vietnamese": "(CHUẨN BỊ) Chuẩn bị ",
+        "japanese": "準備 (スル)",
+        "phonetic": "じゅんび",
+        "vietnamese": "(CHUẨN BỊ) Chuẩn bị",
         "example": "引っ越しの準備が終わった。",
         "example_meaning": "Sự chuẩn bị cho việc chuyển nhà đã xong",
         "image": ""
     },
     {
-        "japanese": "整理 (スル)  ",
-        "phonetic": "せいり ",
-        "vietnamese": "(CHỈNH LÝ) Sắp xếp, vứt bỏ ",
-        "example": "資料の整理 ",
-        "example_meaning": "Sắp xếp tài liệu  ",
+        "japanese": "整理 (スル)",
+        "phonetic": "せいり",
+        "vietnamese": "(CHỈNH LÝ) Sắp xếp, vứt bỏ",
+        "example": "資料の整理",
+        "example_meaning": "Sắp xếp tài liệu",
         "image": ""
     },
     {
-        "japanese": "注文 (スル) ",
-        "phonetic": "ちゅうもん ",
-        "vietnamese": "(TRÚ VĂN) Đặt hàng, gọi đồ, yêu cầu ",
+        "japanese": "注文 (スル)",
+        "phonetic": "ちゅうもん",
+        "vietnamese": "(TRÚ VĂN) Đặt hàng, gọi đồ, yêu cầu",
         "example": "注文の品が届く。",
-        "example_meaning": "Hàng đã đặt sẽ được gửi tới. ",
+        "example_meaning": "Hàng đã đặt sẽ được gửi tới.",
         "image": ""
     },
     {
-        "japanese": "貯金 (スル) ",
-        "phonetic": "ちょきん ",
-        "vietnamese": "(TRỮ KIM) Tiền tiết kiệm, gửi tiền tiết kiệm ",
-        "example": "貯金が増える。 ",
-        "example_meaning": "Tiền tiết kiệm tăng lên. ",
+        "japanese": "貯金 (スル)",
+        "phonetic": "ちょきん",
+        "vietnamese": "(TRỮ KIM) Tiền tiết kiệm, gửi tiền tiết kiệm",
+        "example": "貯金が増える。",
+        "example_meaning": "Tiền tiết kiệm tăng lên.",
         "image": ""
     },
     {
-        "japanese": "徹夜 (スル) ",
-        "phonetic": "てつや ",
-        "vietnamese": "(TRIỆT DẠ) Thức suốt đêm ",
+        "japanese": "徹夜 (スル)",
+        "phonetic": "てつや",
+        "vietnamese": "(TRIỆT DẠ) Thức suốt đêm",
         "example": "徹夜で勉強する。",
-        "example_meaning": "Học suốt đêm không ngủ. ",
+        "example_meaning": "Học suốt đêm không ngủ.",
         "image": ""
     },
     {
-        "japanese": "引っ越し (スル) ",
-        "phonetic": "ひっこし ",
-        "vietnamese": "(DẪN VIỆT) Chuyển nhà ",
-        "example": "",
-        "example_meaning": "",
+        "japanese": "引っ越し (スル)",
+        "phonetic": "ひっこし",
+        "vietnamese": "(DẪN VIỆT) Chuyển nhà",
+        "example": "引っ越しを手伝う。",
+        "example_meaning": "Giúp đỡ việc chuyển nhà.",
         "image": ""
     },
     {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
+        "japanese": "身長",
+        "phonetic": "しんちょう",
+        "vietnamese": "(THÂN TRƯỜNG) Chiều cao cơ thể",
+        "example": "身長を測る。",
+        "example_meaning": "Đo chiều cao cơ thể.",
         "image": ""
     },
     {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
+        "japanese": "体重",
+        "phonetic": "たいじゅう",
+        "vietnamese": "(THỂ TRỌNG) Cân nặng",
+        "example": "父の体重は 70 キロだ。",
+        "example_meaning": "Cân nặng của bố tôi là 70kg.",
         "image": ""
     },
     {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
+        "japanese": "けが",
+        "phonetic": "けが",
+        "vietnamese": "Vết thương",
+        "example": "小さなけが。",
+        "example_meaning": "Vết thương nhỏ.",
         "image": ""
     },
     {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
+        "japanese": "会",
+        "phonetic": "かい",
+        "vietnamese": "(HỘI) Bữa tiệc",
+        "example": "忘年会を{開く/する}。",
+        "example_meaning": "Mở tiệc tất niên.",
         "image": ""
     },
     {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
+        "japanese": "趣味",
+        "phonetic": "しゅみ",
+        "vietnamese": "(THÚ VỊ) Sở thích, gu thẩm mĩ",
+        "example": "趣味は読書です。",
+        "example_meaning": "Sở thích của tôi là đọc sách.",
         "image": ""
     },
     {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
+    "japanese": "興味",
+    "phonetic": "きょうみ",
+    "vietnamese": "(HƯNG VỊ) Hứng thú",
+    "example": "私は歴史に興味がある。",
+    "example_meaning": "Tôi có hứng thú với lịch sử.",
+    "image": ""
+},
+{
+    "japanese": "思い出",
+    "phonetic": "おもいで",
+    "vietnamese": "(TƯ XUẤT) Kỉ niệm",
+    "example": "子どものころの思い出",
+    "example_meaning": "Kỉ niệm thời thơ ấu",
+    "image": ""
+},
+{
+    "japanese": "冗談",
+    "phonetic": "じょうだん",
+    "vietnamese": "(NHŨNG ĐÀM) Nói đùa",
+    "example": "冗談を言ったら、みんなが本気にした。",
+    "example_meaning": "Khi tôi nói đùa, mọi người đều đã tưởng thật.",
+    "image": ""
+},
+{
+    "japanese": "目的",
+    "phonetic": "もくてき",
+    "vietnamese": "(MỤC ĐÍCH) Mục đích",
+    "example": "日本に来た目的は大学への入学だ。",
+    "example_meaning": "Mục đích đến Nhật của tôi là để học đại học.",
+    "image": ""
+},
+{
+    "japanese": "約束",
+    "phonetic": "やくそく",
+    "vietnamese": "(ƯỚC THÚC) Hứa hẹn",
+    "example": "彼と結婚の約束をした。",
+    "example_meaning": "Tôi đã hẹn ước kết hôn cùng anh ấy.",
+    "image": ""
+},
+{
+    "japanese": "おしゃべり",
+    "phonetic": "おしゃべり",
+    "vietnamese": "Nói chuyện, nói nhiều",
+    "example": "授業中に隣の人とおしゃべりしていて、先生に怒られた。",
+    "example_meaning": "Vì tôi nói chuyện suốt với bạn bên cạnh trong giờ học nên bị giáo viên nổi giận.",
+    "image": ""
+},
+{
+    "japanese": "遠慮",
+    "phonetic": "えんりょ",
+    "vietnamese": "(VIỄN LỰ) Khách khí, ngần ngại",
+    "example": "「遠慮しないで食べてください」",
+    "example_meaning": "Hãy ăn đi đừng có ngại.",
+    "image": ""
+},
+{
+    "japanese": "我慢",
+    "phonetic": "がまん",
+    "vietnamese": "(NGÃ MẠN) Nhẫn nại, chịu đựng",
+    "example": "痛くてもがまんする。",
+    "example_meaning": "Dù bị đau, tôi cũng cố chịu.",
+    "image": ""
+},
+{
+    "japanese": "迷惑",
+    "phonetic": "めいわく",
+    "vietnamese": "(MÊ HOẶC) Làm phiền, quấy rầy",
+    "example": "人に迷惑をかけてはいけない。",
+    "example_meaning": "Không được làm phiền người khác.",
+    "image": ""
+},
+{
+    "japanese": "希望",
+    "phonetic": "きぼう",
+    "vietnamese": "(HY VỌNG) Hy vọng, mong ước",
+    "example": "最後まで希望を捨ててはいけない。",
+    "example_meaning": "Không được phép từ bỏ hy vọng cho tới thời điểm cuối cùng.",
+    "image": ""
+},
+{
+    "japanese": "夢",
+    "phonetic": "ゆめ",
+    "vietnamese": "(MỘNG) Giấc mơ, ước mơ",
+    "example": "きのう、こわい夢を見た。",
+    "example_meaning": "Hôm qua tôi đã gặp ác mộng.",
+    "image": ""
+},
+{
+    "japanese": "賛成スル",
+    "phonetic": "さんせい",
+    "vietnamese": "(TÁN THÀNH) Tán thành, đồng ý",
+    "example": "「賛成の人は手をあげてください」",
+    "example_meaning": "Những ai tán thành xin hãy giơ tay.",
+    "image": ""
+},
+{
+    "japanese": "反対スル",
+    "phonetic": "はんたい",
+    "vietnamese": "(PHẢN ĐỐI) Đối ngược, phản đối",
+    "example": "プラスの反対はマイナスだ。",
+    "example_meaning": "Ngược với cộng là trừ.",
+    "image": ""
+},
+{
+        "japanese": "想像 (スル)",
+        "phonetic": "そうぞう",
+        "vietnamese": "(TƯỞNG TƯỢNG) Tưởng tượng",
+        "example": "想像と現実は違う。",
+        "example_meaning": "Hiện thực khác với tưởng tượng",
         "image": ""
     },
     {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
+        "japanese": "努力 (スル)",
+        "phonetic": "どりょく",
+        "vietnamese": "(NỖ LỰC) Nỗ lực, sự cố gắng",
+        "example": "一生懸命、努力をする。",
+        "example_meaning": "Nỗ lực hết sức có thể.",
         "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
+    }
 
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-    {
-        "japanese": "",
-        "phonetic": "",
-        "vietnamese": "",
-        "example": "",
-        "example_meaning": "",
-        "image": ""
-    },
-      
 ]
