@@ -566,6 +566,125 @@
         "example": "一生懸命、努力をする。",
         "example_meaning": "Nỗ lực hết sức có thể.",
         "image": ""
-    }
-
+    },
+    {
+"japanese": "太陽",
+"phonetic": "たいよう",
+"vietnamese": "(THÁI DƯƠNG) Mặt trời, ánh mặt trời",
+"example": "太陽が昇って、暖かくなった。",
+"example_meaning": "Mặt trời lên, thời tiết trở nên ấm áp.",
+"image": ""
+},
+{
+"japanese": "地球",
+"phonetic": "ちきゅう",
+"vietnamese": "(ĐỊA CẦU) Trái đất, địa cầu",
+"example": "地球の環境が悪化している。",
+"example_meaning": "Môi trường trái đất ngày càng xấu đi.",
+"image": ""
+},
+{
+"japanese": "温度",
+"phonetic": "おんど",
+"vietnamese": "(ÔN ĐỘ) Nhiệt độ",
+"example": "温度を測る。",
+"example_meaning": "Đo nhiệt độ.",
+"image": ""
+},
+{
+"japanese": "湿度",
+"phonetic": "しつど",
+"vietnamese": "(THẤP ĐỘ) Độ ẩm",
+"example": "今年の夏は特に湿度が高い。",
+"example_meaning": "Hè năm nay độ ẩm cao một cách bất thường.",
+"image": ""
+},
+{
+"japanese": "湿気",
+"phonetic": "しっけ",
+"vietnamese": "(THẤP KHÍ) Hơi ẩm, sự ẩm ướt",
+"example": "日本の夏は湿気が多い。",
+"example_meaning": "Mùa hè ở Nhật có nhiều hơi ẩm.",
+"image": ""
+},
+{
+"japanese": "梅雨",
+"phonetic": "つゆ",
+"vietnamese": "(MAI VŨ) Mùa mưa",
+"example": "６月から７月は梅雨の時期だ。",
+"example_meaning": "Từ tháng 6 đến tháng 7 là thời gian của mùa mưa.",
+"image": ""
+},
+{
+"japanese": "かび",
+"phonetic": "かび",
+"vietnamese": "Nấm mốc",
+"example": "梅雨の時期はかびがはえやすい。",
+"example_meaning": "Mùa mưa là thời kì nấm mốc dễ phát triển.",
+"image": ""
+},
+{
+"japanese": "暖房",
+"phonetic": "だんぼう",
+"vietnamese": "(NOÃN PHÒNG) Hệ thống sưởi, điều hòa chế độ làm ấm",
+"example": "寒いので暖房をつける。",
+"example_meaning": "Vì lạnh nên bật điều hòa chế độ làm ấm.",
+"image": ""
+},
+{
+"japanese": "皮",
+"phonetic": "かわ",
+"vietnamese": "(BÌ) Da, vỏ",
+"example": "りんごの皮をむいて食べる。",
+"example_meaning": "Gọt vỏ táo rồi ăn.",
+"image": ""
+},
+{
+"japanese": "缶",
+"phonetic": "かん",
+"vietnamese": "(PHỮU/PHẪU) Lon",
+"example": "おかしをカンに入れて保存する。",
+"example_meaning": "Để kẹo vào trong hộp bảo quản.",
+"image": ""
+},
+{
+"japanese": "画面",
+"phonetic": "がめん",
+"vietnamese": "(HỌA DIỆN) Màn hình",
+"example": "パソコンの画面をずっと見ていると、目が疲れる。",
+"example_meaning": "Hễ nhìn suốt vào màn hình máy tính, mắt sẽ trở nên mỏi.",
+"image": ""
+},
+{
+"japanese": "番組",
+"phonetic": "ばんぐみ",
+"vietnamese": "(PHIÊN TỔ) Chương trình ti vi, kênh",
+"example": "テレビの番組を見る。",
+"example_meaning": "Xem chương trình ti vi.",
+"image": ""
+},
+{
+"japanese": "記事",
+"phonetic": "きじ",
+"vietnamese": "(KÍ SỰ) Bài báo, bài viết, phóng sự",
+"example": "この記事によると、日本に住む外国人が増えているそうだ。",
+"example_meaning": "Theo như bài báo này thì người nước ngoài sống ở Nhật Bản đang tăng lên.",
+"image": ""
+},
+{
+"japanese": "近所",
+"phonetic": "きんじょ",
+"vietnamese": "(CẬN SỞ) Hàng xóm, vùng phụ cận",
+"example": "近所の人とは仲良くしたほうがいい。",
+"example_meaning": "Nên có mối quan hệ tốt với hàng xóm.",
+"image": ""
+},
+{
+"japanese": "警察",
+"phonetic": "けいさつ",
+"vietnamese": "(CẢNH SÁT) Cảnh sát",
+"example": "自転車を盗まれたので、警察に届けた。",
+"example_meaning": "Vì bị lấy mất xe đạp nên tôi đến trình báo cảnh sát.",
+"image": ""
+}
 ]
