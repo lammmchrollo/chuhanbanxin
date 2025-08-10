@@ -31,4 +31,4 @@ def vocab():
 
 # Dòng app.run() đã được xóa. Máy chủ hosting (ví dụ: Gunicorn) sẽ tự khởi chạy app.
 #if __name__ == '__main__':
-#    app.run(debug=True)
+#   app.run(debug=True)

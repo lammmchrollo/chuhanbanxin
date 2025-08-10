@@ -686,5 +686,2943 @@
 "example": "自転車を盗まれたので、警察に届けた。",
 "example_meaning": "Vì bị lấy mất xe đạp nên tôi đến trình báo cảnh sát.",
 "image": ""
-}
+},
+{
+"japanese": "犯人",
+"phonetic": "はんにん",
+"vietnamese": "(PHẠM NHÂN) Thủ phạm, tội phạm",
+"example": "犯人をつかまえる。",
+"example_meaning": "Bắt giữ tội phạm.",
+"image": ""
+},
+{
+"japanese": "小銭",
+"phonetic": "こぜに",
+"vietnamese": "(TIỂU TIỀN) Tiền lẻ",
+"example": "バスに乗ってから小銭がないことに気がつき、とても困った。",
+"example_meaning": "Sau khi lên xe Bus mới nhận ra là không có tiền lẻ, thật là khó xử.",
+"image": ""
+},
+{
+"japanese": "ごちそうスル",
+"phonetic": "ごちそう",
+"vietnamese": "Yến tiệc, chiêu đãi, khao",
+"example": "家族みんなでごちそうを食べて、祖父の誕生日を祝った。",
+"example_meaning": "Mọi người trong gia đình cùng ăn tiệc và chúc mừng ngày sinh của ông.",
+"image": ""
+},
+{
+"japanese": "作者",
+"phonetic": "さくしゃ",
+"vietnamese": "(TÁC GIẢ) Tác giả",
+"example": "{小説/詩/絵/彫刻...}の作者",
+"example_meaning": "Tác giả của tiểu thuyết/thơ/tranh/điêu khắc...",
+"image": ""
+},
+{
+"japanese": "作品",
+"phonetic": "さくひん",
+"vietnamese": "(TÁC PHẨM) Tác phẩm, sản phẩm",
+"example": "学生の作品をロビーに展示する。",
+"example_meaning": "Trưng bài tác phẩm của sinh viên ở sảnh.",
+"image": ""
+},
+{
+"japanese": "制服",
+"phonetic": "せいふく",
+"vietnamese": "(CHẾ PHỤC) Đồng phục",
+"example": "日本の中学校には制服のある学校が多い。",
+"example_meaning": "Trong các trường trung học ở Nhật thì nhiều trường có đồng phục.",
+"image": ""
+},
+{
+"japanese": "洗剤",
+"phonetic": "せんざい",
+"vietnamese": "(TIỀN TỄ) Chất tẩy, bột giặt, xà phòng",
+"example": "洗剤で食器を洗う。",
+"example_meaning": "Rửa bát đũa bằng nước rửa chén.",
+"image": ""
+},
+{
+"japanese": "底",
+"phonetic": "そこ",
+"vietnamese": "(ĐỂ) Phần dưới cùng, đế, đáy",
+"example": "くつの底に穴があく。",
+"example_meaning": "Thủng lỗ ở đế giày.",
+"image": ""
+},
+{
+"japanese": "地下",
+"phonetic": "ちか",
+"vietnamese": "(ĐỊA HẠ) Ngầm, dưới mặt đất",
+"example": "大都市は地下の開発が進んでいる。",
+"example_meaning": "Đô thị lớn đang tiến hành phát triển hệ thống ngầm dưới mặt đất.",
+"image": ""
+},
+{
+"japanese": "寺",
+"phonetic": "てら",
+"vietnamese": "(TỰ) Chùa",
+"example": "寺に{まいる/おまいりする}",
+"example_meaning": "Đi thăm chùa",
+"image": ""
+},
+{
+"japanese": "道路",
+"phonetic": "どうろ",
+"vietnamese": "(ĐẠO LỘ) Con đường",
+"example": "道路が込む。",
+"example_meaning": "Đường phố đông đúc.",
+"image": ""
+},
+{
+"japanese": "坂",
+"phonetic": "さか",
+"vietnamese": "(PHẢN) Dốc",
+"example": "坂を上る。",
+"example_meaning": "Leo dốc.",
+"image": ""
+},
+{
+"japanese": "煙",
+"phonetic": "けむり",
+"vietnamese": "(YÊN) Khói",
+"example": "「火事の時は、煙に注意して逃げてください」",
+"example_meaning": "Khi hỏa hoạn xảy ra, hãy chú ý khói và chạy đi.",
+"image": ""
+},
+{
+"japanese": "灰",
+"phonetic": "はい",
+"vietnamese": "(HÔI) Tàn, tro",
+"example": "たばこの灰。",
+"example_meaning": "Tàn thuốc lá.",
+"image": ""
+},
+{
+"japanese": "判",
+"phonetic": "はん",
+"vietnamese": "(PHÁN) Dấu",
+"example": "書類に判を押す。",
+"example_meaning": "Đóng dấu vào tài liệu.",
+"image": ""
+},
+{
+"japanese": "名刺",
+"phonetic": "めいし",
+"vietnamese": "(DANH THÍCH) Danh thiếp",
+"example": "名刺を交換する。",
+"example_meaning": "Trao đổi danh thiếp.",
+"image": ""
+},
+{
+"japanese": "免許",
+"phonetic": "めんきょ",
+"vietnamese": "(MIỄN HỨA) Giấy phép, sự cho phép",
+"example": "レストランを開くには、調理師の免許が必要だ。",
+"example_meaning": "Để mở nhà hàng thì cần có giấy chứng chỉ đầu bếp.",
+"image": ""
+},
+{
+"japanese": "多く",
+"phonetic": "おおく",
+"vietnamese": "(ĐA) Nhiều",
+"example": "オリンピックには多くの国が参加した。",
+"example_meaning": "Có nhiều quốc gia tham gia thế vận hội Olympic.",
+"image": ""
+},
+{
+"japanese": "前半",
+"phonetic": "ぜんはん",
+"vietnamese": "(TIỀN BÁN) Phần đầu",
+"example": "映画の前半はたいくつだったが、後半は面白かった。",
+"example_meaning": "Phần đầu phim rất là chán nhưng phần sau thì thú vị.",
+"image": ""
+},
+{
+"japanese": "後半",
+"phonetic": "こうはん",
+"vietnamese": "(HẬU BÁN) Phần sau",
+"example": "映画の前半はたいくつだったが、後半は面白かった。",
+"example_meaning": "Phần đầu phim rất là chán nhưng phần sau thì thú vị.",
+"image": ""
+},
+{
+"japanese": "最高",
+"phonetic": "さいこう",
+"vietnamese": "(TỐI CAO) Cao nhất, tuyệt vời, rất",
+"example": "最高気温",
+"example_meaning": "Nhiệt độ cao nhất",
+"image": ""
+},
+{
+"japanese": "最低",
+"phonetic": "さいてい",
+"vietnamese": "(TỐI ĐÊ) Thấp nhất, tồi tệ, kinh khủng",
+"example": "最低気温",
+"example_meaning": "Nhiệt độ thấp nhất",
+"image": ""
+},
+{
+"japanese": "最初",
+"phonetic": "さいしょ",
+"vietnamese": "(TỐI SƠ) Đầu tiên",
+"example": "最初にひらがなを、次にカタカナを勉強した。",
+"example_meaning": "Đầu tiên học hiragana, tiếp theo là học katakana.",
+"image": ""
+},
+{
+"japanese": "最後",
+"phonetic": "さいご",
+"vietnamese": "(TỐI HẬU) Cuối cùng",
+"example": "",
+"example_meaning": "",
+"image": ""
+},
+{
+"japanese": "自動",
+"phonetic": "じどう",
+"vietnamese": "(TỰ ĐỘNG) Tự động",
+"example": "このドアは自動だから、手で開けなくてもいい。",
+"example_meaning": "Cánh cửa này là cửa tự động nên không cần dùng tay mở cũng được.",
+"image": ""
+},
+{
+"japanese": "種類",
+"phonetic": "しゅるい",
+"vietnamese": "(CHỦNG LOẠI) Chủng loại, loại",
+"example": "公園にはいろいろな種類の花がある。",
+"example_meaning": "Trong công viên có rất nhiều loại hoa.",
+"image": ""
+},
+{
+"japanese": "性格",
+"phonetic": "せいかく",
+"vietnamese": "(TÍNH CÁCH) Tính cách, nhân phẩm",
+"example": "あの人は性格がいいので、みんなに好かれている。",
+"example_meaning": "Người ấy có tính cách tốt nên được mọi người yêu quý.",
+"image": ""
+},
+{
+"japanese": "性質",
+"phonetic": "せいしつ",
+"vietnamese": "(TÍNH CHẤT) Tính chất, bản chất",
+"example": "この布は燃えにくい性質を持っている。",
+"example_meaning": "Loại vải này có tính chất khó cháy.",
+"image": ""
+},
+{
+"japanese": "順番",
+"phonetic": "じゅんばん",
+"vietnamese": "(THUẬN PHIÊN) Thứ tự, lần lượt",
+"example": "発表の順番を決める。",
+"example_meaning": "Quyết định thứ tự thuyết trình.",
+"image": ""
+},
+{
+"japanese": "番",
+"phonetic": "ばん",
+"vietnamese": "(PHIÊN) Lượt, trông coi",
+"example": "次は私の番だ。",
+"example_meaning": "Tiếp theo là đến lượt tôi.",
+"image": ""
+},
+{
+"japanese": "方法",
+"phonetic": "ほうほう",
+"vietnamese": "(PHƯƠNG PHÁP) Phương pháp, cách thức",
+"example": "いい方法を探す。",
+"example_meaning": "Tìm kiếm phương pháp hay.",
+"image": ""
+},
+{
+"japanese": "製品",
+"phonetic": "せいひん",
+"vietnamese": "(CHẾ PHẨM) Sản phẩm",
+"example": "完成した製品を検査する。",
+"example_meaning": "Kiểm tra sản phẩm đã làm xong.",
+"image": ""
+},
+{
+"japanese": "値上がりスル",
+"phonetic": "ねあがり",
+"vietnamese": "(GIÁ THƯỢNG) Tăng giá",
+"example": "石油が値上がりする。",
+"example_meaning": "Tăng giá dầu mỏ.",
+"image": ""
+},
+{
+"japanese": "生",
+"phonetic": "なま",
+"vietnamese": "(SINH) Nguyên chất, tươi, sống",
+"example": "生の魚",
+"example_meaning": "Cá tươi sống",
+"image": ""
+},
+{
+    "japanese": "渇く",
+    "phonetic": "かわく",
+    "vietnamese": "(KHÁT) Khát",
+    "example": "のどが渇いた。",
+    "example_meaning": "Khát nước.",
+    "image": ""
+},
+{
+    "japanese": "嗅ぐ",
+    "phonetic": "かぐ",
+    "vietnamese": "(KHỨU) Ngửi",
+    "example": "においをかぐ。",
+    "example_meaning": "Ngửi thấy mùi.",
+    "image": ""
+},
+{
+    "japanese": "叩く",
+    "phonetic": "たたく",
+    "vietnamese": "(KHẤU) Đánh, gõ, vỗ",
+    "example": "子どものおしりをたたく。",
+    "example_meaning": "Đánh vào mông đứa trẻ.",
+    "image": ""
+},
+{
+    "japanese": "殴る",
+    "phonetic": "なぐる",
+    "vietnamese": "(ẨU) Đấm",
+    "example": "教師が生徒を殴って、問題になっている。",
+    "example_meaning": "Việc giáo viên đấm học sinh trở thành vấn đề.",
+    "image": ""
+},
+{
+    "japanese": "ける",
+    "phonetic": "ける",
+    "vietnamese": "Đá",
+    "example": "ボールをける。",
+    "example_meaning": "Đá bóng.",
+    "image": ""
+},
+{
+    "japanese": "抱く",
+    "phonetic": "だく",
+    "vietnamese": "(BÃO) Ôm, ẵm, bế",
+    "example": "子供を両手でしっかりと抱く。",
+    "example_meaning": "Bế đứa bé bằng 2 tay một cách cẩn thận.",
+    "image": ""
+},
+{
+"japanese": "倒れる",
+"phonetic": "たおれる",
+"vietnamese": "(ĐẢO) Ngã, đổ",
+"example": "台風で木が倒れた。",
+"example_meaning": "Do bão nên cây đổ.",
+"image": ""
+},
+{
+"japanese": "倒す",
+"phonetic": "たおす",
+"vietnamese": "(ĐẢO) Làm đổ, đánh bại",
+"example": "花びんを倒して割ってしまった。",
+"example_meaning": "Tôi làm đổ bình hoa và làm nó vỡ mất rồi.",
+"image": ""
+},
+{
+"japanese": "起きる/起こる",
+"phonetic": "おきる/おこる",
+"vietnamese": "(KHỞI) Thức dậy, xảy ra",
+"example": "きょうは８時に起きた。",
+"example_meaning": "Hôm nay, tôi đã dậy lúc 8h.",
+"image": ""
+},
+{
+"japanese": "起こす",
+"phonetic": "おこす",
+"vietnamese": "(KHỞI) Đánh thức ai đó dậy, dựng lên, gây ra",
+"example": "うちの子は朝起こしてもなかなか起きない",
+"example_meaning": "Con nhà tôi, buổi sáng cho dù có đánh thức thì mãi cũng không dậy",
+"image": ""
+},
+{
+"japanese": "尋ねる",
+"phonetic": "たずねる",
+"vietnamese": "(TẦM) Hỏi, xin, yêu cầu",
+"example": "交番で警官に市役所までの道を尋ねた。",
+"example_meaning": "Tôi đã hỏi một anh cảnh sát tại bốt cảnh sát về đường đến tòa thị chính.",
+"image": ""
+},
+{
+"japanese": "呼ぶ",
+"phonetic": "よぶ",
+"vietnamese": "(HÔ) Gọi, thu hút",
+"example": "「名前を呼ばれたら返事をしてください」",
+"example_meaning": "Nếu được gọi đến tên mình thì xin hãy trả lời.",
+"image": ""
+},
+{
+"japanese": "叫ぶ",
+"phonetic": "さけぶ",
+"vietnamese": "(KHIẾU) Kêu, reo hò, la hét",
+"example": "大声で叫んだが、相手は気づかずに行ってしまった。",
+"example_meaning": "Dù tôi đã gào to nhưng đối phương đã không nhận ra mà đi mất.",
+"image": ""
+},
+{
+"japanese": "黙る",
+"phonetic": "だまる",
+"vietnamese": "(MẶC) Im lặng, làm không xin phép",
+"example": "先生が質問したが、だれも答えないで黙っている。",
+"example_meaning": "Thầy giáo đặt câu hỏi nhưng tất cả đều im lặng không trả lời.",
+"image": ""
+},
+{
+"japanese": "飼う",
+"phonetic": "かう",
+"vietnamese": "(TỰ) Nuôi (thú cưng)",
+"example": "何かペットを飼いたいと思っている。",
+"example_meaning": "Tôi muốn nuôi một con vật gì đó.",
+"image": ""
+},
+{
+"japanese": "数える",
+"phonetic": "かぞえる",
+"vietnamese": "(SỐ) Đếm, trong số",
+"example": "「いすがいくつあるか、数えてください」",
+"example_meaning": "Hãy đếm xem có bao nhiêu cái ghế.",
+"image": ""
+},
+{
+"japanese": "乾く",
+"phonetic": "かわく",
+"vietnamese": "(CAN) Khô",
+"example": "風が強かったので、外に干した洗濯物はすぐに乾いた。",
+"example_meaning": "Gió mạnh nên đồ phơi ở ngoài khô nhanh chóng.",
+"image": ""
+},
+{
+"japanese": "乾かす",
+"phonetic": "かわかす",
+"vietnamese": "(CAN) Làm khô",
+"example": "ドライヤーでぬれた髪を乾かした。",
+"example_meaning": "Tôi làm khô tóc ướt bằng máy sấy.",
+"image": ""
+},
+{
+"japanese": "畳む",
+"phonetic": "たたむ",
+"vietnamese": "(ĐIỆP) Gấp, xếp",
+"example": "洗濯物をたたむ。",
+"example_meaning": "Gấp đồ đã giặt.",
+"image": ""
+},
+{
+"japanese": "誘う",
+"phonetic": "さそう",
+"vietnamese": "(DỤ) Rủ, mời",
+"example": "友達を誘って映画を見に行った。",
+"example_meaning": "Tôi đã rủ bạn đi xem phim.",
+"image": ""
+},
+{
+"japanese": "おごる",
+"phonetic": "おごる",
+"vietnamese": "Khao, chiêu đãi cái gì đó",
+"example": "きのうは後輩に焼き肉をおごった。",
+"example_meaning": "Hôm qua, chiêu đãi hậu bối thịt nướng.",
+"image": ""
+},
+{
+"japanese": "預かる",
+"phonetic": "あずかる",
+"vietnamese": "(DỰ) Trông nom, chăm sóc",
+"example": "旅行に行く友だちから犬を預かることになった。",
+"example_meaning": "Bạn tôi đi du lịch nên đã nhờ tôi chăm cho con chó của cậu ấy.",
+"image": ""
+},
+{
+"japanese": "預ける",
+"phonetic": "あずける",
+"vietnamese": "(DỰ) Gửi tiền, giao phó",
+"example": "銀行にお金を預けると、利子がつく。",
+"example_meaning": "Gửi tiền vào ngân hàng sẽ sinh lãi.",
+"image": ""
+},
+{
+"japanese": "決まる",
+"phonetic": "きまる",
+"vietnamese": "(QUYẾT) Được quyết định, được sắp đặt, được làm hoàn hảo",
+"example": "帰国の日が決まった。",
+"example_meaning": "Ngày về nước được quyết rồi.",
+"image": ""
+},
+{
+"japanese": "決める",
+"phonetic": "きめる",
+"vietnamese": "(QUYẾT) Quyết định, luôn luôn làm, làm một cách hoàn hảo",
+"example": "「進学か就職か、早く決めたほうがいいですよ」",
+"example_meaning": "Học lên hay đi xin việc, nên quyết định sớm thì tốt hơn đấy.",
+"image": ""
+},
+{
+"japanese": "写る",
+"phonetic": "うつる",
+"vietnamese": "(TẢ) Được chiếu, được chụp",
+"example": "このカメラは暗いところでもよく写る。",
+"example_meaning": "Cái máy ảnh này chụp tốt cả những nơi tối.",
+"image": ""
+},
+{
+"japanese": "写す",
+"phonetic": "うつす",
+"vietnamese": "(TẢ) Chụp, chiếu, sao chép",
+"example": "写真を写す。",
+"example_meaning": "Chụp ảnh.",
+"image": ""
+},
+{
+"japanese": "思い出す",
+"phonetic": "おもいだす",
+"vietnamese": "(TƯ XUẤT) Nhớ lại, ghi nhớ",
+"example": "毎年春になると、高校の入学式を思い出します。",
+"example_meaning": "Mỗi năm khi mùa xuân đến, tôi lại nhớ lại buổi lễ nhập học vào cấp 3.",
+"image": ""
+},
+{
+"japanese": "教わる",
+"phonetic": "おそわる",
+"vietnamese": "(GIÁO) Học",
+"example": "この料理の作り方は母{から/に}教わりました。",
+"example_meaning": "Cách làm món ăn này, tôi đã học được từ mẹ.",
+"image": ""
+},
+{
+"japanese": "申し込む",
+"phonetic": "もうしこむ",
+"vietnamese": "(THÂN NHẬP) Đăng ký",
+"example": "パーティーに参加を申し込む。",
+"example_meaning": "Đăng ký tham gia bữa tiệc.",
+"image": ""
+},
+{
+"japanese": "断る",
+"phonetic": "ことわる",
+"vietnamese": "(ĐOẠN) Từ chối, xin phép",
+"example": "頼まれた仕事を断った。",
+"example_meaning": "Tôi đã từ chối công việc được yêu cầu.",
+"image": ""
+},
+{
+"japanese": "見つかる",
+"phonetic": "みつかる",
+"vietnamese": "(KIẾN) Được tìm thấy, bị bắt gặp",
+"example": "なくなったと思っていた指輪が、ソファーの下{で/から}見つかった。",
+"example_meaning": "Cái nhẫn tưởng đã mất rồi được tìm thấy ở dưới ghế Sofa.",
+"image": ""
+},
+{
+"japanese": "見つける",
+"phonetic": "みつける",
+"vietnamese": "(KIẾN) Tìm thấy",
+"example": "なくなったと思っていた指輪を、ソファーの下で見つけた。",
+"example_meaning": "Tìm thấy cái nhẫn tưởng đã mất rồi ở dưới ghế Sofa.",
+"image": ""
+},
+{
+"japanese": "捕まる",
+"phonetic": "つかまる",
+"vietnamese": "(BỘ) Bị bắt, nắm, giữ",
+"example": "犯人が警察に捕まった。",
+"example_meaning": "Kẻ phạm tội đã bị cảnh sát bắt.",
+"image": ""
+},
+{
+"japanese": "捕まえる",
+"phonetic": "つかまえる",
+"vietnamese": "(BỘ) Bắt, tóm",
+"example": "警察が泥棒を捕まえた。",
+"example_meaning": "Cảnh sát tóm lấy tên trộm.",
+"image": ""
+},
+{
+"japanese": "乗る",
+"phonetic": "のる",
+"vietnamese": "(THỪA) Cưỡi, lên",
+"example": "毎朝、電車に乗って学校に通っている。",
+"example_meaning": "Sáng nào, tôi cũng lên tàu điện và đi đến trường.",
+"image": ""
+},
+{
+"japanese": "乗せる",
+"phonetic": "のせる",
+"vietnamese": "(THỪA) Chất lên, cho lên",
+"example": "子供を車に乗せて、学校まで送って行った。",
+"example_meaning": "Cho bọn trẻ lên xe rồi chở chúng đến trường.",
+"image": ""
+},
+{
+"japanese": "降りる/下りる",
+"phonetic": "おりる",
+"vietnamese": "(GIÁNG/HẠ) Xuống, đóng cửa, được chấp nhận",
+"example": "電車を降りる。",
+"example_meaning": "Xuống tàu điện.",
+"image": ""
+},
+{
+"japanese": "降ろす/下ろす",
+"phonetic": "おろす",
+"vietnamese": "(GIÁNG/HẠ) Cho ai đó xuống (xe), hạ xuống, rút tiền",
+"example": "「あの銀行の前で降ろしてください」",
+"example_meaning": "Xin hãy cho tôi xuống ở phía trước ngân hàng kia.",
+"image": ""
+},
+{
+"japanese": "直る",
+"phonetic": "なおる",
+"vietnamese": "(TRỰC) Được sửa, cải tiến",
+"example": "こわれたパソコンが直った。",
+"example_meaning": "Chiếc máy tính cá nhân bị hỏng đã được sửa.",
+"image": ""
+},
+{
+"japanese": "直す",
+"phonetic": "なおす",
+"vietnamese": "(TRỰC) Sửa chữa, chỉnh lại, dịch",
+"example": "こわれた時計を直す。",
+"example_meaning": "Sửa cái đồng hồ bị hỏng.",
+"image": ""
+},
+{
+"japanese": "治る",
+"phonetic": "なおる",
+"vietnamese": "(TRỊ) Trở nên tốt hơn, bình phục",
+"example": "なかなか頭痛が治らない。",
+"example_meaning": "Mãi mà không khỏi đau đầu.",
+"image": ""
+},
+{
+"japanese": "治す",
+"phonetic": "なおす",
+"vietnamese": "(TRỊ) Chữa trị, phục hồi",
+"example": "よく休んで早く風邪を治してください」",
+"example_meaning": "Hãy nghỉ ngơi nhiều và nhanh khỏi ốm nhé.",
+"image": ""
+},
+{
+"japanese": "亡くなる",
+"phonetic": "なくなる",
+"vietnamese": "(VONG) Mất, chết",
+"example": "社長が９０歳で亡くなった。",
+"example_meaning": "Giám đốc mất vào năm 90 tuổi.",
+"image": ""
+},
+{
+"japanese": "亡くす",
+"phonetic": "なくす",
+"vietnamese": "(VONG) Mất (ai đó)",
+"example": "彼は子供の時、父親を亡くした。",
+"example_meaning": "Anh ấy đã mất cha mẹ khi còn nhỏ.",
+"image": ""
+},
+{
+"japanese": "生まれる",
+"phonetic": "うまれる",
+"vietnamese": "(SINH) Được sinh ra, được tạo ra",
+"example": "先月子供が生まれた。",
+"example_meaning": "Em bé đã được sinh ra tháng trước.",
+"image": ""
+},
+{
+"japanese": "産む/生む",
+"phonetic": "うむ",
+"vietnamese": "(SẢN/SINH) Sinh, tạo ra",
+"example": "妻が先日元気な女の子を産んだ。",
+"example_meaning": "Cách đây vài ngày, vợ tôi đã sinh ra một bé gái khỏe mạnh.",
+"image": ""
+},
+{
+"japanese": "出会う",
+"phonetic": "であう",
+"vietnamese": "(XUẤT HỘI) Gặp một cách tình cờ",
+"example": "駅で偶然大学時代の友人に{に/と}会った。",
+"example_meaning": "Ở nhà ga, tôi tình cờ gặp người bạn thân thời đại học.",
+"image": ""
+},
+{
+"japanese": "訪ねる",
+"phonetic": "たずねる",
+"vietnamese": "(PHỎNG) Thăm",
+"example": "友人の家を訪ねた。",
+"example_meaning": "Đến thăm nhà bạn thân.",
+"image": ""
+},
+{
+"japanese": "付き合う",
+"phonetic": "つきあう",
+"vietnamese": "(PHÓ HỢP) Quan hệ, cùng, hẹn hò",
+"example": "隣の家の人と親しく付き合っている。",
+"example_meaning": "Quan hệ thân thiết với hàng xóm.",
+"image": ""
+},
+{
+"japanese": "効く",
+"phonetic": "きく",
+"vietnamese": "(HIỆU) Hiệu quả",
+"example": "この薬は頭痛によく効く。",
+"example_meaning": "Loại thuốc này có hiệu quả tốt với bệnh đau đầu.",
+"image": ""
+},
+{
+"japanese": "はやる",
+"phonetic": "はやる",
+"vietnamese": "Phổ biến, thịnh hành, lan tràn",
+"example": "この冬は赤い色がはやっている。",
+"example_meaning": "Mùa đông này màu đỏ rất được ưa chuộng (rất phổ biến).",
+"image": ""
+},
+{
+"japanese": "経つ",
+"phonetic": "たつ",
+"vietnamese": "(KINH) Trải qua, trôi qua",
+"example": "日本へ来てから１０年が経った。",
+"example_meaning": "Sau khi đến Nhật, 10 năm đã trôi qua.",
+"image": ""
+},
+{
+"japanese": "間に合う",
+"phonetic": "まにあう",
+"vietnamese": "(GIAN HỢP) Kịp, đúng giờ",
+"example": "電車が遅れたが、駅から走って、なんとか授業に間に合った。",
+"example_meaning": "Xe điện đến muộn, cơ mà chạy từ ga, bằng một cách nào đó đã kịp giờ học.",
+"image": ""
+},
+{
+"japanese": "間に合わせる",
+"phonetic": "まにあわせる",
+"vietnamese": "(GIAN HỢP) Kịp giờ, kết thúc đúng giờ",
+"example": "レポートを、頑張って締め切りに間に合わせた。",
+"example_meaning": "Cố gắng hoàn thành báo cáo kịp thời hạn.",
+"image": ""
+},
+{
+"japanese": "通う",
+"phonetic": "かよう",
+"vietnamese": "(THÔNG) Đi lại thường xuyên, hiểu (cảm giác của ai đó)",
+"example": "学校/会社/病院...}に通う。",
+"example_meaning": "Đi lại đều đặn đến {trường học/công ty/bệnh viện...}",
+"image": ""
+},
+{
+"japanese": "込む",
+"phonetic": "こむ",
+"vietnamese": "(NHẬP) Đông",
+"example": "{電車/店/道...}が込む。",
+"example_meaning": "Xe điện/cửa hàng/Đường đông người.",
+"image": ""
+},
+{
+"japanese": "すれ違う",
+"phonetic": "すれちがう",
+"vietnamese": "(VI) Vượt qua nhau, lỡ (hụt)",
+"example": "この道が狭いので、自動車がすれ違うのは大変だ。",
+"example_meaning": "Con đường này hẹp nên ô tô vượt qua nhau rất khó.",
+"image": ""
+},
+{
+"japanese": "掛かる",
+"phonetic": "かかる",
+"vietnamese": "(QUẢI) Được phủ lên, mất thời gian, mắc, gây ra, khởi động (động cơ)",
+"example": "このサラダには何もかかっていないようだ。",
+"example_meaning": "Hình như món rau trộn này không cho bất kỳ cái gì lên trên cả.",
+"image": ""
+},
+{
+"japanese": "掛ける",
+"phonetic": "かける",
+"vietnamese": "(QUẢI) Phủ lên, lấy thời gian của ai đó, bắt đầu, nhân",
+"example": "料理にしょうゆをかけて食べる。",
+"example_meaning": "Rưới xì dầu lên món ăn rồi ăn.",
+"image": ""
+},
+{
+"japanese": "動く",
+"phonetic": "うごく",
+"vietnamese": "(ĐỘNG) Di chuyển, làm việc, hành động",
+"example": "「写真を撮るから動かないでください」",
+"example_meaning": "Tôi sẽ chụp ảnh nên đừng cử động.",
+"image": ""
+},
+{
+"japanese": "動かす",
+"phonetic": "うごかす",
+"vietnamese": "(ĐỘNG) Di chuyển, làm việc(máy móc), làm cho hành động",
+"example": "ひどいけがをして、体を動かすこともできない。",
+"example_meaning": "Bị thương rất nặng nên việc di chuyển cũng không thể làm được.",
+"image": ""
+},
+{
+"japanese": "離れる",
+"phonetic": "はなれる",
+"vietnamese": "(LI) Tránh xa, xa nhau",
+"example": "「危ないから、ストーブから離れて遊びなさい」",
+"example_meaning": "Vì nguy hiểm nên hãy chơi tránh xa khu vực lò sưởi ra.",
+"image": ""
+},
+{
+"japanese": "離す",
+"phonetic": "はなす",
+"vietnamese": "(LI) Di chuyển, tách",
+"example": "テストの時は、机を離して並べる。",
+"example_meaning": "Lúc kiểm tra, di chuyển bàn và sắp xếp lại.",
+"image": ""
+},
+{
+"japanese": "ぶつかる",
+"phonetic": "ぶつかる",
+"vietnamese": "Va chạm, xung đột",
+"example": "道で自転車にぶつかってけがをした。",
+"example_meaning": "Đâm vào xe đạp trên đường nên bị thương.",
+"image": ""
+},
+{
+"japanese": "ぶつける",
+"phonetic": "ぶつける",
+"vietnamese": "Đâm mạnh, đụng vào",
+"example": "運転していて、車を電柱にぶつけてしまった。",
+"example_meaning": "Đang lái xe thì tôi đã lỡ đâm xe vào cột điện.",
+"image": ""
+},
+{
+"japanese": "こぼれる",
+"phonetic": "こぼれる",
+"vietnamese": "Bị tràn, trào (nước mắt)",
+"example": "手がふるえてお茶がこぼれてしまった。",
+"example_meaning": "Tay run rẩy nên nước trà bị tràn ra ngoài.",
+"image": ""
+},
+{
+"japanese": "こぼす",
+"phonetic": "こぼす",
+"vietnamese": "Đổ ra, làm tràn",
+"example": "コップを倒して水をこぼしてしまった。",
+"example_meaning": "Làm đổ cốc nên làm nước tràn ra ngoài.",
+"image": ""
+},
+{
+"japanese": "ふく",
+"phonetic": "ふく",
+"vietnamese": "Lau, chùi",
+"example": "汗をふく。",
+"example_meaning": "Lau mồ hôi.",
+"image": ""
+},
+{
+"japanese": "片付く",
+"phonetic": "かたづく",
+"vietnamese": "(PHIẾN PHÓ) Được dọn dẹp, được hoàn thành, được giải quyết",
+"example": "大掃除をして、やっと部屋が片付いた。",
+"example_meaning": "Làm tổng vệ sinh, cuối cùng phòng ốc cũng được dọn dẹp ngăn nắp.",
+"image": ""
+},
+{
+"japanese": "片付ける",
+"phonetic": "かたづける",
+"vietnamese": "(PHIẾN PHÓ) Dọn dẹp, hoàn thành, giải quyết",
+"example": "机の上を片付ける。",
+"example_meaning": "Dọn dẹp phía trên mặt bàn.",
+"image": ""
+},
+{
+"japanese": "包む",
+"phonetic": "つつむ",
+"vietnamese": "(BAO) Bọc, gói",
+"example": "プレゼントをきれいな紙{で/に}包む。",
+"example_meaning": "Gói quà bằng giấy đẹp.",
+"image": ""
+},
+{
+"japanese": "張る",
+"phonetic": "はる",
+"vietnamese": "(TRƯƠNG) Dán, đưa lên, đóng lên",
+"example": "壁にポスターを張る。",
+"example_meaning": "Dán tấm áp phích lên tường.",
+"image": ""
+},
+{
+"japanese": "無くなる",
+"phonetic": "なくなる",
+"vietnamese": "(VÔ) Bị mất",
+"example": "部屋の鍵がなくなってしまった。",
+"example_meaning": "Chìa khóa phòng bị mất rồi.",
+"image": ""
+},
+{
+"japanese": "無くす",
+"phonetic": "なくす",
+"vietnamese": "(VÔ) Làm mất",
+"example": "パスポートを亡くして困っている。",
+"example_meaning": "Làm mất hộ chiếu nên giờ rất rắc rối.",
+"image": ""
+},
+{
+"japanese": "足りる",
+"phonetic": "たりる",
+"vietnamese": "(TÚC) Đủ",
+"example": "この収入では生活するのに全然足りない。",
+"example_meaning": "Với thu nhập này thì hoàn toàn không đủ sống.",
+"image": ""
+},
+{
+"japanese": "残る",
+"phonetic": "のこる",
+"vietnamese": "(TÀN) Vẫn còn",
+"example": "料理を作りすぎて、たくさん残ってしまった。",
+"example_meaning": "Làm quá nhiều đồ ăn nên vẫn còn lại nhiều.",
+"image": ""
+},
+{
+"japanese": "残す",
+"phonetic": "のこす",
+"vietnamese": "(TÀN) Chưa xong (ăn), còn lại, để lại",
+"example": "ご飯を残してしまった。",
+"example_meaning": "Tôi đã để thừa cơm.",
+"image": ""
+},
+{
+"japanese": "腐る",
+"phonetic": "くさる",
+"vietnamese": "(HỦ) Thiu, mục nát, thối rữa",
+"example": "腐ったものを食べて、おなかを壊してしまった。",
+"example_meaning": "Ăn phải đồ thiu nên bị đau bụng.",
+"image": ""
+},
+{
+"japanese": "むける",
+"phonetic": "むける",
+"vietnamese": "Bóc, lột ra",
+"example": "海で日焼けをして、背中の皮がむけた。",
+"example_meaning": "Bị cháy nắng ở biển nên da ở lưng bị lột ra.",
+"image": ""
+},
+{
+"japanese": "むく",
+"phonetic": "むく",
+"vietnamese": "Bóc, lột",
+"example": "果物の皮をむく。",
+"example_meaning": "Gọt vỏ/ bóc vỏ hoa quả.",
+"image": ""
+},
+{
+"japanese": "滑る",
+"phonetic": "すべる",
+"vietnamese": "(HOẠT) Trượt băng, trượt",
+"example": "新しいスケート場はきれいで、楽しく滑ることができた。",
+"example_meaning": "Khu trượt băng mới rất đẹp trượt thích lắm.",
+"image": ""
+},
+{
+"japanese": "積もる",
+"phonetic": "つもる",
+"vietnamese": "(TÍCH) Tích trữ, chồng chất lên",
+"example": "きのう降った雪が積もっている。",
+"example_meaning": "Tuyết rơi hôm qua tích lại (thành đống).",
+"image": ""
+},
+{
+"japanese": "積む",
+"phonetic": "つむ",
+"vietnamese": "(TÍCH) Chất lên",
+"example": "机の上に本がたくさん積んである。",
+"example_meaning": "Có rất nhiều sách được đặt trên bàn.",
+"image": ""
+},
+{
+"japanese": "空く",
+"phonetic": "あく",
+"vietnamese": "(KHÔNG) Bỏ trống, có sẵn, mở",
+"example": "くつしたに穴が空いてしまった。",
+"example_meaning": "Có lỗ hổng ở tất.",
+"image": ""
+},
+{
+"japanese": "空ける",
+"phonetic": "あける",
+"vietnamese": "(KHÔNG) Đục (lỗ), bỏ trống",
+"example": "かべに穴を空ける。",
+"example_meaning": "Đục lỗ trên tường.",
+"image": ""
+},
+{
+"japanese": "下がる",
+"phonetic": "さがる",
+"vietnamese": "(HẠ) Đi xuống, lùi lại",
+"example": "{熱/温度/値段/成績...}が下がる。",
+"example_meaning": "(Sốt/nhiệt độ/giá cả/thành tích...) giảm/ đi xuống.",
+"image": ""
+},
+{
+"japanese": "下げる",
+"phonetic": "さげる",
+"vietnamese": "(HẠ) Làm giảm xuống, lấy đi",
+"example": "{熱/温度/値段/音量...}を下げる。",
+"example_meaning": "Hạ/ làm giảm (Sốt/ nhiệt độ/ giá cả/ âm lượng...) xuống.",
+"image": ""
+},
+{
+"japanese": "冷える",
+"phonetic": "ひえる",
+"vietnamese": "(LÃNH) Được ướp lạnh, cảm thấy lạnh",
+"example": "寒いところに長くいたので、手足が冷えてしまった。",
+"example_meaning": "Ở nơi lạnh lâu nên chân tay lạnh ngắt.",
+"image": ""
+},
+{
+"japanese": "冷やす",
+"phonetic": "ひやす",
+"vietnamese": "(LÃNH) Làm lạnh, bình tĩnh",
+"example": "この果物は冷やして食べたほうがおいしい。",
+"example_meaning": "Loại quả này nên làm lạnh rồi ăn sẽ ngon hơn.",
+"image": ""
+},
+{
+"japanese": "冷める",
+"phonetic": "さめる",
+"vietnamese": "(LÃNH) Bị lạnh (nguội) mất đam mê",
+"example": "この料理は冷めるとおいしくない。",
+"example_meaning": "Món này bị nguội sẽ không ngon.",
+"image": ""
+},
+{
+"japanese": "冷ます",
+"phonetic": "さます",
+"vietnamese": "(LÃNH) Làm cho cái gì đó lạnh",
+"example": "お風呂のお湯が熱くなりすぎた。少し冷ましてから入ろう。",
+"example_meaning": "Nước trong bồn tắm nóng quá rồi. Làm nguội chút rồi hãy vào tắm.",
+"image": ""
+},
+{
+"japanese": "燃える",
+"phonetic": "もえる",
+"vietnamese": "(NHIÊN) Cháy, đam mê",
+"example": "{火/紙...}が燃える。",
+"example_meaning": "Lửa/ giấy cháy.",
+"image": ""
+},
+{
+"japanese": "燃やす",
+"phonetic": "もやす",
+"vietnamese": "(NHIÊN) Đốt cháy, cháy cùng (đam mê)",
+"example": "{火/紙...}を燃やす。",
+"example_meaning": "Đốt lửa/ giấy.",
+"image": ""
+},
+{
+"japanese": "沸く",
+"phonetic": "わく",
+"vietnamese": "(PHÍ) Sôi, (bồn tắm) sẵn sàng, trở nên sôi động",
+"example": "{湯/風呂}が沸く。",
+"example_meaning": "Nước sôi/ Bồn tắm sẵn sàng.",
+"image": ""
+},
+{
+"japanese": "沸かす",
+"phonetic": "わかす",
+"vietnamese": "(PHÍ) Sôi, chuẩn bị (tắm), sôi động",
+"example": "{湯/風呂}を沸かす。",
+"example_meaning": "Đun sôi nước/ Chuẩn bị bồn tắm.",
+"image": ""
+},
+{
+"japanese": "鳴る",
+"phonetic": "なる",
+"vietnamese": "(MINH) Kêu lên (dùng dùng), kêu",
+"example": "雷が鳴っている。",
+"example_meaning": "Sấm kêu đùng đùng.",
+"image": ""
+}, 
+{
+"japanese": "鳴らす",
+"phonetic": "ならす",
+"vietnamese": "(MINH) Làm kêu",
+"example": "ブザーを鳴らす。",
+"example_meaning": "Bấm còi",
+"image": ""
+},
+{
+"japanese": "役立つ/役に立つ",
+"phonetic": "やくだつ/やくにたつ",
+"vietnamese": "(DỊCH LẬP) Hữu ích",
+"example": "インターネットの情報は、勉強や仕事{に役立つ/の役に立つ}。",
+"example_meaning": "Thông tin trên mạng có ích cho việc học, công việc.",
+"image": ""
+},
+{
+"japanese": "役立てる/役に立てる",
+"phonetic": "やくだてる/やくにたてる",
+"vietnamese": "(DỊCH LẬP) Đưa vào sử dụng, ứng dụng",
+"example": "インターネットの情報を、勉強や仕事{に役立てる/の役に立てる}。",
+"example_meaning": "Làm cho thông tin trên internet có ích cho việc học, công việc.",
+"image": ""
+},
+{
+"japanese": "飾り",
+"phonetic": "かざり",
+"vietnamese": "(SỨC) Trang trí",
+"example": "クリスマスの飾りを買った。",
+"example_meaning": "Tôi đã mua đồ trang trí giáng sinh.",
+"image": ""
+},
+{
+"japanese": "遊び",
+"phonetic": "あそび",
+"vietnamese": "(DU) Trò chơi, chơi",
+"example": "かくれんぼは子どもの遊びだ。",
+"example_meaning": "Trốn tìm là trò chơi của trẻ con.",
+"image": ""
+},
+{
+"japanese": "集まり",
+"phonetic": "あつまり",
+"vietnamese": "(TẬP) Tập trung",
+"example": "あした、マンションの住人の集まりがある。",
+"example_meaning": "Ngày mai sẽ có buổi tập trung của những người sống ở chung cư.",
+"image": ""
+},
+{
+"japanese": "教え",
+"phonetic": "おしえ",
+"vietnamese": "(GIÁO) Chỉ dạy",
+"example": "母の教えを今でも思い出す。",
+"example_meaning": "Đến tận bây giờ, tôi vẫn nhớ những lời chỉ dạy của mẹ.",
+"image": ""
+},
+{
+"japanese": "踊り",
+"phonetic": "おどり",
+"vietnamese": "(DŨNG) Nhảy múa",
+"example": "留学生が各国の踊りを踊った。",
+"example_meaning": "Du học sinh đã nhảy điệu nhảy của các nước.",
+"image": ""
+},
+{
+"japanese": "思い",
+"phonetic": "おもい",
+"vietnamese": "(TƯ) Nghĩ, cảm nhận",
+"example": "あの人の思いが届いた。",
+"example_meaning": "Suy nghĩ của tôi đã người ấy thấu hiểu.",
+"image": ""
+},
+{
+"japanese": "考え",
+"phonetic": "かんがえ",
+"vietnamese": "(KHẢO) Suy nghĩ, ý tưởng",
+"example": "私にいい考えがある。",
+"example_meaning": "Có ý tưởng hay.",
+"image": ""
+},
+{
+"japanese": "片づけ",
+"phonetic": "かたづけ",
+"vietnamese": "(PHIẾN) Dọn dẹp",
+"example": "私は片づけが苦手だ。",
+"example_meaning": "Tôi thì kém trong khoản dọn dẹp.",
+"image": ""
+},
+{
+"japanese": "手伝い",
+"phonetic": "てつだい",
+"vietnamese": "(THỦ TRUYỀN) Giúp đỡ",
+"example": "引っ越しの手伝いをする。",
+"example_meaning": "Giúp chuyển nhà.",
+"image": ""
+},
+{
+"japanese": "働き",
+"phonetic": "はたらき",
+"vietnamese": "(ĐỘNG) Chức năng, hoạt động",
+"example": "血液の働きの一つは、体に栄養を運ぶことだ。",
+"example_meaning": "Một trong những chức năng của máu là đưa dưỡng chất nuôi cơ thể.",
+"image": ""
+},
+{
+"japanese": "決まり",
+"phonetic": "きまり",
+"vietnamese": "(QUYẾT) Luật",
+"example": "学校で新しい決まりが作られた。",
+"example_meaning": "Ở trường học, một quy định mới đã được đưa ra.",
+"image": ""
+},
+{
+"japanese": "騒ぎ",
+"phonetic": "さわぎ",
+"vietnamese": "(TAO) Ồn ào, phiền phức",
+"example": "きのう、駅前で騒ぎがあった。",
+"example_meaning": "Hôm qua, trước nhà ga đã có 1 vụ ồn ào.",
+"image": ""
+},
+{
+"japanese": "知らせ",
+"phonetic": "しらせ",
+"vietnamese": "(TRI) Thông báo, thông tin",
+"example": "父が入院したという知らせがあった。",
+"example_meaning": "Đã có thông báo là bố tôi nhập viện.",
+"image": ""
+},
+{
+"japanese": "頼み",
+"phonetic": "たのみ",
+"vietnamese": "(LẠI) Nhờ, yêu cầu",
+"example": "「あなたに頼みがあるんです」",
+"example_meaning": "Tôi có việc muốn nhờ anh.",
+"image": ""
+},
+{
+"japanese": "疲れ",
+"phonetic": "つかれ",
+"vietnamese": "(BÌ) Mệt mỏi",
+"example": "仕事で疲れがたまっている。",
+"example_meaning": "Vì công việc nên sự mệt mỏi tích dần, ngày càng nhiều.",
+"image": ""
+},
+{
+"japanese": "違い",
+"phonetic": "ちがい",
+"vietnamese": "(VI) Khác nhau",
+"example": "この二つの違いがわからない。",
+"example_meaning": "Tôi không hiểu sự khác nhau của 2 cái này.",
+"image": ""
+},
+{
+"japanese": "始め",
+"phonetic": "はじめ",
+"vietnamese": "(THỦY) Bắt đầu",
+"example": "本を始めから終わりまで全部読んだ。",
+"example_meaning": "Tôi đã đọc toàn bộ quyển sách từ đầu đến cuối.",
+"image": ""
+},
+{
+"japanese": "続き",
+"phonetic": "つづき",
+"vietnamese": "(TỤC) Tiếp tục",
+"example": "早く本の続きが読みたい。",
+"example_meaning": "Tôi muốn sớm đọc phần tiếp theo của cuốn sách.",
+"image": ""
+},
+{
+"japanese": "暮れ",
+"phonetic": "くれ",
+"vietnamese": "(MỘ) Cuối (năm)",
+"example": "年の暮れは忙しい。",
+"example_meaning": "Cuối năm bận vội.",
+"image": ""
+},
+{
+"japanese": "行き",
+"phonetic": "いき",
+"vietnamese": "(HÀNH) Đi",
+"example": "旅行は、行きは新幹線、帰りは飛行機だった。",
+"example_meaning": "Du lịch lúc đi thì bằng tàu Shinkansen, lúc về thì về bằng máy bay.",
+"image": ""
+},
+{
+"japanese": "帰り",
+"phonetic": "かえり",
+"vietnamese": "(QUY) Trở về",
+"example": "会社の行き帰りにコンビニに寄る。",
+"example_meaning": "Tôi ghé vào cửa hàng tiện lợi lúc đi và trở lại công ty.",
+"image": ""
+},
+{
+"japanese": "急ぎ",
+"phonetic": "いそぎ",
+"vietnamese": "(CẤP) Khẩn cấp",
+"example": "急ぎの仕事が入った。",
+"example_meaning": "Đã vào lúc công việc bận rộn.",
+"image": ""
+},
+{
+"japanese": "遅れ",
+"phonetic": "おくれ",
+"vietnamese": "(TRÌ) Chậm trễ, muộn",
+"example": "電車に３分の遅れが出た。",
+"example_meaning": "Tàu điện đã muộn 3 phút.",
+"image": ""
+},
+{
+"japanese": "貸し",
+"phonetic": "かし",
+"vietnamese": "(THẢI) Cho vay",
+"example": "",
+"example_meaning": "",
+"image": ""
+},
+{
+"japanese": "借り",
+"phonetic": "かり",
+"vietnamese": "(TÁ) Vay",
+"example": "あの人には１０万円の借りがある。",
+"example_meaning": "Tôi cho người kia vay 10 man.",
+"image": ""
+},
+{
+"japanese": "勝ち",
+"phonetic": "かち",
+"vietnamese": "(THẮNG) Thắng",
+"example": "きのうの試合は A チームの勝ちだった。",
+"example_meaning": "Trận đấu hôm nay, nhóm A chiến thắng.",
+"image": ""
+},
+{
+"japanese": "負け",
+"phonetic": "まけ",
+"vietnamese": "(PHỤ) Thua",
+"example": "負けが続いて、いやになった。",
+"example_meaning": "Cứ mãi thua (tiếp tục thua) thế nên chán.",
+"image": ""
+},
+{
+"japanese": "迎え",
+"phonetic": "むかえ",
+"vietnamese": "(NGHÊNH) Đón",
+"example": "迎えの車がなかなか来ない。",
+"example_meaning": "Ô tô đến đón mãi mà chưa thấy tới.",
+"image": ""
+},
+{
+"japanese": "始まり",
+"phonetic": "はじまり",
+"vietnamese": "(THỦY) Sự bắt đầu",
+"example": "映画の始まりに間に合わなかった。",
+"example_meaning": "Đã không kịp xem phần đầu bộ phim.",
+"image": ""
+},
+{
+"japanese": "終わり",
+"phonetic": "おわり",
+"vietnamese": "(CHUNG) Sự kết thúc",
+"example": "夏休みはもうすぐ終わりだ。",
+"example_meaning": "Kỳ nghỉ hè đã kết thúc.",
+"image": ""
+},
+{
+"japanese": "戻り",
+"phonetic": "もどり",
+"vietnamese": "(LỆ) Trở lại",
+"example": "「きのうの戻りは３時ごろになります」",
+"example_meaning": "Tôi sẽ quay trở về trong ngày hôm nay khoảng lúc 3 giờ.",
+"image": ""
+},
+{
+"japanese": "別れ",
+"phonetic": "わかれ",
+"vietnamese": "(BIỆT) Chia ra",
+"example": "日本では３月は別れの季節だ。",
+"example_meaning": "Tháng 3 ở Nhật Bản là tháng chia ly.",
+"image": ""
+},
+{
+"japanese": "喜び",
+"phonetic": "よろこび",
+"vietnamese": "(HỶ) Phấn khởi, vui mừng",
+"example": "優勝できて、喜びでいっぱいだ。",
+"example_meaning": "Đạt được chức vô địch, ngập tràn niềm vui.",
+"image": ""
+},
+{
+"japanese": "楽しみ",
+"phonetic": "たのしみ",
+"vietnamese": "(LẠC) Vui vẻ",
+"example": "来週のパーティー{が楽しみだ/を楽しみにしている}。",
+"example_meaning": "Bữa tiệc tuần tới sẽ vui/ Mong đợi bữa tiệc tuần tới.",
+"image": ""
+},
+{
+"japanese": "笑い",
+"phonetic": "わらい",
+"vietnamese": "(TIẾU) Cười, tiếng cười",
+"example": "歌手の冗談で会場に笑いが起きた。",
+"example_meaning": "Cả hội trường dậy lên tiếng cười vì câu nói đùa của người ca sĩ.",
+"image": ""
+},
+{
+"japanese": "驚き",
+"phonetic": "おどろき",
+"vietnamese": "(KINH) Sự ngạc nhiên",
+"example": "この大きな家がたったの１００万円とは驚きだ。",
+"example_meaning": "Ngạc nhiên với việc xây dựng ngôi nhà to này với 100 man yên.",
+"image": ""
+},
+{
+"japanese": "怒り",
+"phonetic": "いかり",
+"vietnamese": "(NỘ) Sự tức giận",
+"example": "殺人のニュースに怒りを感じた。",
+"example_meaning": "Đã cảm thấy tức giận với thông tin về tên sát nhân.",
+"image": ""
+},
+{
+"japanese": "悲しみ",
+"phonetic": "かなしみ",
+"vietnamese": "(BI) Sự buồn đau",
+"example": "愛犬を亡くした悲しみが消えない。",
+"example_meaning": "Không thể nguôi ngoai (Không thể xóa được) nỗi buồn về cái chết của con chó cưng.",
+"image": ""
+},
+{
+"japanese": "幸せな",
+"phonetic": "しあわせな",
+"vietnamese": "(HẠNH) Hạnh phúc",
+"example": "幸せな人生。",
+"example_meaning": "Cuộc sống hạnh phúc.",
+"image": ""
+},
+{
+"japanese": "得意な",
+"phonetic": "とくいな",
+"vietnamese": "(ĐẮC Ý) Giỏi, tự hào, tự mãn",
+"example": "彼女は{ギター/作文/料理...}が得意だ。",
+"example_meaning": "Cô ấy giỏi ghi-ta/ viết lách/ nấu ăn...",
+"image": ""
+},
+{
+"japanese": "苦手な",
+"phonetic": "にがてな",
+"vietnamese": "(KHỔ THỦ) Kém, yếu, không thoải mái",
+"example": "彼女は{ギター/作文/料理...}が苦手だ。",
+"example_meaning": "Cô ấy chơi ghi ta/ sáng tác/ nấu ăn ...kém.",
+"image": ""
+},
+{
+"japanese": "熱心な",
+"phonetic": "ねっしんな",
+"vietnamese": "(NHIỆT TÂM) Say mê, nhiệt tình",
+"example": "熱心な仕事ぶりが認められて昇進した。",
+"example_meaning": "Được ghi nhận có sự nhiệt tình trong công việc và thăng chức.",
+"image": ""
+},
+{
+"japanese": "夢中な",
+"phonetic": "むちゅうな",
+"vietnamese": "(MỘNG TRUNG) Say sưa, miệt mài",
+"example": "子供のころ、SF漫画に夢中になった。",
+"example_meaning": "Hồi còn nhỏ, tôi say mê truyện tranh SF (Science fiction, là truyện tranh, phim khoa học viễn tưởng)",
+"image": ""
+},
+{
+"japanese": "退屈な",
+"phonetic": "たいくつな",
+"vietnamese": "(THOÁI QUẬT) Buồn tẻ",
+"example": "ほかの客は笑いながら見ていたが、私には退屈な映画だった。",
+"example_meaning": "Những người xem khác vừa xem vừa cười nhưng đối với tôi thì đây là bộ phim buồn tẻ.",
+"image": ""
+},
+{
+"japanese": "健康な",
+"phonetic": "けんこうな",
+"vietnamese": "(KIỆN KHANG) Khỏe mạnh",
+"example": "心も体も健康な子どもを育てたい。",
+"example_meaning": "Tôi muốn nuôi dạy đứa trẻ khỏe mạnh cả thể chất lẫn tinh thần.",
+"image": ""
+},
+{
+"japanese": "苦しい",
+"phonetic": "くるしい",
+"vietnamese": "(KHỔ) Khổ cực, đau đớn",
+"example": "{息/胸/心/生活...}が苦しい。",
+"example_meaning": "Hơi thở/ ngực/ trái tim/ cuộc sống....khổ cực/ vất vả/ khó khăn.",
+"image": ""
+},
+{
+"japanese": "平気な",
+"phonetic": "へいきな",
+"vietnamese": "(BÌNH KHÍ) Bình thản, bình tĩnh",
+"example": "彼女は、どんなに悪口を言われても平気な顔をしている。",
+"example_meaning": "Cô ấy dù có bị nói xấu đến mức nào thì khuôn mặt vẫn hết sức bình thản.",
+"image": ""
+},
+{
+"japanese": "悔しい",
+"phonetic": "くやしい",
+"vietnamese": "(HỐI) Tiếc nuối, cay cú",
+"example": "何度練習してもうまできなくて、悔しい。",
+"example_meaning": "Cảm thấy đắng lòng vì dù luyện tập bao nhiêu lần vẫn không giỏi.",
+"image": ""
+},
+{
+"japanese": "うらやましい",
+"phonetic": "うらやましい",
+"vietnamese": "Ghen tỵ",
+"example": "才能の豊かな人がうらやましい。",
+"example_meaning": "Ghen tỵ với người có nhiều tài năng.",
+"image": ""
+},
+{
+"japanese": "かゆい",
+"phonetic": "かゆい",
+"vietnamese": "Ngứa",
+"example": "蚊に刺されて首がかゆい。",
+"example_meaning": "Cổ bị ngứa do bị muỗi đốt.",
+"image": ""
+},
+{
+"japanese": "おとなしい",
+"phonetic": "おとなしい",
+"vietnamese": "Trầm tính, dịu dàng, ít nói",
+"example": "彼はおとなしい人だ。",
+"example_meaning": "Anh ta là người trầm tính.",
+"image": ""
+},
+{
+"japanese": "我慢強い",
+"phonetic": "がまんづよい",
+"vietnamese": "(NGÃ MẠN CƯỜNG) Kiên trì, nhẫn nại, sức chịu đựng cao",
+"example": "がまん強い性格。",
+"example_meaning": "Tính cách kiên cường.",
+"image": ""
+},
+{
+"japanese": "正直な",
+"phonetic": "しょうじきな",
+"vietnamese": "(CHÍNH TRỰC) Trung thực",
+"example": "彼は正直な人だから、うそをつくことができない。",
+"example_meaning": "Anh ấy là người trung thực nên anh ấy không biết nói dối đâu.",
+"image": ""
+},
+{
+"japanese": "けちな",
+"phonetic": "けちな",
+"vietnamese": "Ky bo, keo kiệt",
+"example": "あの人はとてもけちだ。",
+"example_meaning": "Người đó rất là keo kiệt.",
+"image": ""
+},
+{
+"japanese": "わがままな",
+"phonetic": "わがままな",
+"vietnamese": "Ích kỷ",
+"example": "わがままな{人/性格/行動...}",
+"example_meaning": "Người/ tính cách/ hành động...ích kỷ.",
+"image": ""
+},
+{
+"japanese": "積極的な",
+"phonetic": "せっきょくてきな",
+"vietnamese": "(TÍCH CỰC ĐÍCH) Có tính tích cực, chủ động",
+"example": "積極的な{人/性格/行動...}",
+"example_meaning": "Người/ tính cách/ hành động...tích cực.",
+"image": ""
+},
+{
+"japanese": "消極的な",
+"phonetic": "しょうきょくてきな",
+"vietnamese": "(TIÊU CỰC ĐÍCH) Có tính tiêu cực, thụ động",
+"example": "消極的な{人/性格}",
+"example_meaning": "Người/ tính cách... tiêu cực.",
+"image": ""
+},
+{
+"japanese": "満足な",
+"phonetic": "まんぞくな",
+"vietnamese": "(MÃN TÚC) Thỏa mãn, hài lòng",
+"example": "アルバイトだけでは満足な収入は得られない。",
+"example_meaning": "Chỉ với việc làm thêm thì không thể đạt được mức thu nhập vừa ý được.",
+"image": ""
+},
+{
+"japanese": "不満な",
+"phonetic": "ふまんな",
+"vietnamese": "(BẤT MÃN) Bất mãn, không hài lòng",
+"example": "この仕事に不満な点はない。",
+"example_meaning": "Tôi không có điểm nào không hài lòng về công việc này cả.",
+"image": ""
+},
+{
+"japanese": "不安な",
+"phonetic": "ふあんな",
+"vietnamese": "(BẤT AN) Lo lắng, không dễ dàng",
+"example": "最近、体の調子がよくない。悪い病気ではないかと不安だ。",
+"example_meaning": "Gần đây, tôi cảm thấy trong người không ổn, tôi lo không biết có bị bệnh gì không.",
+"image": ""
+},
+{
+"japanese": "大変な",
+"phonetic": "たいへんな",
+"vietnamese": "(ĐẠI BIẾN) Khó khăn, kinh khủng",
+"example": "子育て中の母親は大変だ。",
+"example_meaning": "Người mẹ trong khi nuôi dạy trẻ con gặp nhiều khó khăn.",
+"image": ""
+},
+{
+"japanese": "無理な",
+"phonetic": "むりな",
+"vietnamese": "(VÔ LÝ) Không thể làm được, quá sức",
+"example": "たった１００万円で家を建てるなんて無理な話だ。",
+"example_meaning": "Chỉ với 100 vạn Yên mà xây nhà thì thật là chuyện vô lý.",
+"image": ""
+},
+{
+"japanese": "不注意な",
+"phonetic": "ふちゅういな",
+"vietnamese": "(BẤT CHÚ Ý) Không chú ý, không quan tâm",
+"example": "不注意な人",
+"example_meaning": "Người cẩu thả. (không quan tâm, chú ý)",
+"image": ""
+},
+{
+"japanese": "楽な",
+"phonetic": "らくな",
+"vietnamese": "(LẠC) Dễ dàng, thoải mái",
+"example": "もう少し楽な暮らしがしたい。",
+"example_meaning": "Tôi muốn sống cuộc sống an nhàn hơn chút nữa.",
+"image": ""
+},
+{
+"japanese": "面倒な",
+"phonetic": "めんどうな",
+"vietnamese": "(DIỆN ĐẢO) Rắc rối, phiền toái",
+"example": "ご入会には面倒な手続きはいりません",
+"example_meaning": "Khi nhập hội thì không cần làm mấy thủ tục rắc rối đâu.",
+"image": ""
+},
+{
+"japanese": "失礼な",
+"phonetic": "しつれいな",
+"vietnamese": "(THẤT LỄ) Thất lễ, thô lỗ",
+"example": "あいさつしても返事もしない。なんて失礼な人だろう。",
+"example_meaning": "Dù chào hỏi mà cũng không trả lời, đúng là người vô lễ.",
+"image": ""
+},
+{
+"japanese": "当然な",
+"phonetic": "とうぜんな",
+"vietnamese": "(ĐƯƠNG NHIÊN) Tất nhiên, đương nhiên, được mong đợi",
+"example": "お金を借りたら、返すのが当然だ。",
+"example_meaning": "Mượn tiền rồi thì đương nhiên là phải trả.",
+"image": ""
+},
+{
+"japanese": "意外な",
+"phonetic": "いがいな",
+"vietnamese": "(Ý NGOẠI) Không ngờ, ngạc nhiên",
+"example": "事故を調査するうちに意外な事実が分かった。",
+"example_meaning": "Trong lúc điều tra về vụ tai nạn, tôi đã biết được sự thật bất ngờ.",
+"image": ""
+},
+{
+"japanese": "結構な",
+"phonetic": "けっこうな",
+"vietnamese": "(KẾT CẤU) Tốt, ổn, đủ rồi",
+"example": "「お味はいかがですか」「大変結構です」",
+"example_meaning": "Mùi vị món ăn thế nào? Rất ngon.",
+"image": ""
+},
+{
+"japanese": "派手な",
+"phonetic": "はでな",
+"vietnamese": "(PHÁI THỦ) Lòe loẹt, màu mè",
+"example": "はでな{人/性格/服/化粧/デザイン/生活...}",
+"example_meaning": "Người/ tính cách/ quần áo/ trang điểm/ thiết kế/ cuộc sống... đồng bóng, phong cách, hào nhoáng, màu mè",
+"image": ""
+},
+{
+"japanese": "地味な",
+"phonetic": "じみな",
+"vietnamese": "(ĐỊA VỊ) Trơn, giản dị, mộc mạc",
+"example": "じみな{人/性格/服/化粧/デザイン/生活...}",
+"example_meaning": "Người/ tính cách/ quần áo/ trang điểm/ thiết kế/ cuộc sống... giản dị, đơn giản.",
+"image": ""
+},
+{
+"japanese": "おしゃれな",
+"phonetic": "おしゃれな",
+"vietnamese": "Phong cách, thời trang, ăn diện",
+"example": "彼女はとてもおしゃれだ。",
+"example_meaning": "Cô ấy ăn mặc rất thời trang.",
+"image": ""
+},
+{
+"japanese": "変な",
+"phonetic": "へんな",
+"vietnamese": "(BIẾN) Kỳ lạ, dị",
+"example": "変なメールが届いたのですぐに消した。",
+"example_meaning": "Có mail lạ gửi đến nên tôi đã xóa ngay rồi.",
+"image": ""
+},
+{
+"japanese": "不思議な",
+"phonetic": "ふしぎな",
+"vietnamese": "(BẤT TƯ NGHỊ) Kỳ lạ, khó hiểu, kỳ diệu",
+"example": "この村には不思議な話が伝わっている。",
+"example_meaning": "Ở làng quê này truyền tai nhau một câu chuyện kỳ lạ.",
+"image": ""
+},
+{
+"japanese": "ましな",
+"phonetic": "ましな",
+"vietnamese": "Tốt hơn, thích hợp hơn",
+"example": "せきがひどかったが、うがいをしたら前よりましになった。",
+"example_meaning": "Tôi ho kinh khủng nhưng sau khi súc miệng thì đã trở nên đỡ hơn trước rồi.",
+"image": ""
+},
+{
+"japanese": "むだな",
+"phonetic": "むだな",
+"vietnamese": "Vô ích, lãng phí",
+"example": "落ちるとわかっているのに試験を受けるのは、むだなことだ。",
+"example_meaning": "Dù biết là trượt mà vẫn dự thi thì thật là vô ích.",
+"image": ""
+},
+{
+"japanese": "自由な",
+"phonetic": "じゆうな",
+"vietnamese": "(TỰ DO) Tự do",
+"example": "赤ちゃんがいるので、自由な時間がほとんどない。",
+"example_meaning": "Vì có em bé nên hầu như không có thời gian rảnh.",
+"image": ""
+},
+{
+"japanese": "不自由な",
+"phonetic": "ふじゆうな",
+"vietnamese": "(BẤT TỰ DO) Tàn tật, không thuận tiện, phiền toái",
+"example": "{目/耳/足/体...}が不自由な人。",
+"example_meaning": "Người khiếm thị/ khiếm thính/ tàn tật chân/ tàn tật...",
+"image": ""
+},
+{
+"japanese": "暖まる/温まる",
+"phonetic": "あたたまる",
+"vietnamese": "(NOÃN/ÔN) Ấm lên",
+"example": "お風呂に入ると体が{暖/温}まる。",
+"example_meaning": "Tắm bồn thì cơ thể sẽ dần dần ấm lên.",
+"image": ""
+},
+{
+"japanese": "暖める/温める",
+"phonetic": "あたためる",
+"vietnamese": "(NOÃN/ÔN) Làm ấm",
+"example": "エアコンをつけて部屋を暖める。",
+"example_meaning": "Bật điều hòa làm ấm phòng.",
+"image": ""
+},
+{
+"japanese": "高まる",
+"phonetic": "たかまる",
+"vietnamese": "(CAO) Tăng lên, cao lên",
+"example": "台風が近づき、波が高まっている。",
+"example_meaning": "Bão đến gần, sóng đang dâng lên.",
+"image": ""
+},
+{
+"japanese": "高める",
+"phonetic": "たかめる",
+"vietnamese": "(CAO) Làm cho tăng lên",
+"example": "若者はもっとコミュニケーション能力を高める必要がある。",
+"example_meaning": "Giới trẻ cần nâng cao khả năng giao tiếp hơn nữa.",
+"image": ""
+},
+{
+"japanese": "強まる",
+"phonetic": "つよまる",
+"vietnamese": "(CƯỜNG) Mạnh lên",
+"example": "台風の勢力はますます強まっている。",
+"example_meaning": "Ảnh hưởng của cơn bão đang mạnh dần lên.",
+"image": ""
+},
+{
+"japanese": "強める",
+"phonetic": "つよめる",
+"vietnamese": "(CƯỜNG) Làm mạnh, tăng cường",
+"example": "{火/力/自信...}を強める。",
+"example_meaning": "Làm lớn lửa/ Tăng cường sức lực/ Làm tăng sự tự tin.",
+"image": ""
+},
+{
+"japanese": "弱まる",
+"phonetic": "よわまる",
+"vietnamese": "(NHƯỢC) Yếu đi, giảm",
+"example": "疲れていると抵抗力が弱まって、かぜにかかりやすくなる。",
+"example_meaning": "Mệt mỏi thì sức đề kháng bị suy yếu, trở nên rất dễ bị cảm.",
+"image": ""
+},
+{
+"japanese": "弱める",
+"phonetic": "よわめる",
+"vietnamese": "(NHƯỢC) Làm suy yếu",
+"example": "「材料がやわらかくなったら、火を弱めてゆっくり煮込んでください」",
+"example_meaning": "Khi đồ mềm rồi thì vặn nhỏ lửa lại rồi cứ từ từ ninh.",
+"image": ""
+},
+{
+"japanese": "広まる",
+"phonetic": "ひろまる",
+"vietnamese": "(QUẢNG) Lan tràn, mở rộng",
+"example": "そのうわさは１日で会社中に広まった。",
+"example_meaning": "Tin đồn đó lan khắp công ty chỉ trong 1 ngày.",
+"image": ""
+},
+{
+"japanese": "広める",
+"phonetic": "ひろめる",
+"vietnamese": "(QUẢNG) Làm rộng ra, làm cho phổ biến",
+"example": "明治時代に、ヨーロッパから帰国した留学生たちが、日本に西洋文化を広めた。",
+"example_meaning": "Vào thời Minh Trị, học sinh sinh viên du học từ Châu Âu về đã làm cho văn hóa phương Tây lan rộng tại Nhật.",
+"image": ""
+},
+{
+"japanese": "深まる",
+"phonetic": "ふかまる",
+"vietnamese": "(THÂM) Sâu",
+"example": "子供ができて、二人の愛情はますます深まった。",
+"example_meaning": "Có con rồi, tình cảm của 2 người càng ngày càng sâu sắc hơn.",
+"image": ""
+},
+{
+"japanese": "深める",
+"phonetic": "ふかめる",
+"vietnamese": "(THÂM) Làm sâu sắc, tu luyện",
+"example": "交流を深め、相手の国を理解することが大切だ。",
+"example_meaning": "Việc tăng cường giao lưu và hiểu biết nước bạn là điều quan trọng.",
+"image": ""
+},
+{
+"japanese": "世話",
+"phonetic": "せわ",
+"vietnamese": "(THẾ THOẠI) Chăm sóc, hỗ trợ",
+"example": "うちではペットの世話は私の仕事だ。",
+"example_meaning": "Ở nhà việc chăm sóc thú nuôi là công việc của tôi.",
+"image": ""
+},
+{
+"japanese": "家庭",
+"phonetic": "かてい",
+"vietnamese": "(GIA ĐÌNH) Nhà, gia đình",
+"example": "Tanaka 課長は仕事では厳しいが、家庭ではやさしいお父さんだそうだ。",
+"example_meaning": "Trưởng phòng Tanaka là một người nghiêm khắc khi làm việc nhưng nghe nói ở nhà ngài ấy lại là một người cha dễ tính.",
+"image": ""
+},
+{
+"japanese": "協力 (スル)",
+"phonetic": "きょうりょく",
+"vietnamese": "(HIỆP LỰC) Hợp tác, hiệp lực",
+"example": "家族で協力して祖母の介護をした。",
+"example_meaning": "Gia đình cùng đồng lòng chăm sóc bà.",
+"image": ""
+},
+{
+"japanese": "感謝スル",
+"phonetic": "かんしゃ",
+"vietnamese": "(CẢM TẠ) Biết ơn, cảm tạ",
+"example": "アドバイスしてくれた先輩に、とても感謝している。",
+"example_meaning": "Tôi rất biết ơn tiền bối đã cho tôi lời khuyên.",
+"image": ""
+},
+{
+"japanese": "(お) 礼",
+"phonetic": "(お) れい",
+"vietnamese": "(LỄ) Sự biểu lộ lòng biết ơn",
+"example": "お世話になった方にお礼をした。",
+"example_meaning": "Tôi đã tạ ơn người đã giúp đỡ tôi.",
+"image": ""
+},
+{
+"japanese": "(お) 詫び",
+"phonetic": "(お) わび",
+"vietnamese": "(SÁ) Lời xin lỗi, tạ lỗi",
+"example": "迷惑をかけた人にお詫びをした。",
+"example_meaning": "Tôi đã xin lỗi người mà tôi đã gây rắc rối.",
+"image": ""
+},
+{
+"japanese": "おじぎ (スル)",
+"phonetic": "おじぎ",
+"vietnamese": "Sự cúi chào",
+"example": "「お客様にはていねいにおじぎをしましょう」",
+"example_meaning": "Hãy cúi chào khách một cách lễ phép.",
+"image": ""
+},
+{
+"japanese": "握手 (スル)",
+"phonetic": "あくしゅ",
+"vietnamese": "(ÁC THỦ) Bắt tay",
+"example": "コンサートで歌手と握手した。",
+"example_meaning": "Tôi đã bắt tay với ca sĩ ở buổi hòa nhạc.",
+"image": ""
+},
+{
+"japanese": "意地悪 (スル)/な",
+"phonetic": "いじわる",
+"vietnamese": "(Ý ĐỊA ÁC) Xấu tính, có ác tâm, làm giận",
+"example": "好きな子にはつい意地悪してしまう。",
+"example_meaning": "Tôi lỡ làm đứa bé tôi thích giận mất rồi.",
+"image": ""
+},
+{
+"japanese": "いたずら (スル)/ナ",
+"phonetic": "いたずら",
+"vietnamese": "Nghịch ngợm, giễu cợt",
+"example": "いたずらをして、先生に怒られた。",
+"example_meaning": "Tôi nghịch ngợm và bị thầy mắng.",
+"image": ""
+},
+{
+"japanese": "節約 (スル)",
+"phonetic": "せつやく",
+"vietnamese": "(TIẾT ƯỚC) Sự tiết kiệm",
+"example": "生活費の節約",
+"example_meaning": "Tiết kiệm phí sinh hoạt",
+"image": ""
+},
+{
+"japanese": "経営スル",
+"phonetic": "けいえい",
+"vietnamese": "(KINH DOANH) Quản lý, kinh doanh",
+"example": "父はスーパーを経営している。",
+"example_meaning": "Bố tôi đang quản lý một siêu thị.",
+"image": ""
+},
+{
+"japanese": "反省 (スル)",
+"phonetic": "はんせい",
+"vietnamese": "(PHẢN TỈNH) Kiểm điểm, xem xét lại",
+"example": "１日の反省を日記に書く。",
+"example_meaning": "Tôi viết nhật kí xem xét lại các việc đã thực hiện trong 1 ngày.",
+"image": ""
+},
+{
+"japanese": "実行スル",
+"phonetic": "じっこう",
+"vietnamese": "(THỰC HÀNH) Thực hiện",
+"example": "この計画は実行が難しい。",
+"example_meaning": "Kế hoạch này thực hiện rất khó.",
+"image": ""
+},
+{
+"japanese": "進歩スル",
+"phonetic": "しんぽ",
+"vietnamese": "(TIẾN BỘ) Tiến bộ, tiến triển",
+"example": "英語を勉強しているが、進歩がない。",
+"example_meaning": "Tôi đang học tiếng Anh nhưng không tiến bộ mấy.",
+"image": ""
+},
+{
+"japanese": "変化スル",
+"phonetic": "へんか",
+"vietnamese": "(BIẾN HÓA) Thay đổi, biến đổi",
+"example": "大きな変化。",
+"example_meaning": "Sự thay đổi lớn.",
+"image": ""
+},
+{
+"japanese": "発達スル",
+"phonetic": "はったつ",
+"vietnamese": "(PHÁT ĐẠT) Phát đạt, phát triển",
+"example": "体や心が発達する。",
+"example_meaning": "Cơ thể, tâm hồn phát triển.",
+"image": ""
+},
+{
+"japanese": "体力",
+"phonetic": "たいりょく",
+"vietnamese": "(THỂ LỰC) Thể lực",
+"example": "若者の体力が低下している。",
+"example_meaning": "Thể lực của giới trẻ đang giảm đi.",
+"image": ""
+},
+{
+        "japanese": "出場スル",
+        "phonetic": "しゅつじょう",
+        "vietnamese": "(XUẤT TRƯỜNG) Tham gia",
+        "example": "オリンピックへの出場が決まった。",
+        "example_meaning": "Việc tham dự Olympic đã được quyết định.",
+        "image": ""
+    },
+    {
+        "japanese": "活躍 (スル)",
+        "phonetic": "かつやく",
+        "vietnamese": "(HOẠT DƯỢC) Hoạt động, thi đấu, trình diễn, sự thành công",
+        "example": "選手の活躍を期待する。",
+        "example_meaning": "Tôi kỳ vọng vào màn trình diễn của tuyển thủ Tanaka",
+        "image": ""
+    },
+    {
+        "japanese": "競争 (スル)",
+        "phonetic": "きょうそう",
+        "vietnamese": "(CẠNH TRANH) Cạnh tranh, thi đấu",
+        "example": "どちらがいい成績を取るか、友だちと競争した。",
+        "example_meaning": "Tôi đã thi đấu với bạn xem bên nào sẽ giành được thành tích tốt hơn.",
+        "image": ""
+    },
+    {
+        "japanese": "応援 (スル)",
+        "phonetic": "おうえん",
+        "vietnamese": "(ỨNG VIỆN) Hỗ trợ, cổ vũ",
+        "example": "自分の学校のチームを応援する。",
+        "example_meaning": "Cổ vũ cho đội của trường mình.",
+        "image": ""
+    },
+    {
+        "japanese": "拍手 (スル)",
+        "phonetic": "はくしゅ",
+        "vietnamese": "(PHÁCH THỦ) Vỗ tay",
+        "example": "ステージの歌手に拍手する。",
+        "example_meaning": "Vỗ tay cổ vũ cho ca sỹ trên sân khấu.",
+        "image": ""
+    },
+    {
+        "japanese": "人気",
+        "phonetic": "にんき",
+        "vietnamese": "(NHÂN KHÍ) Phổ biến, được yêu thích",
+        "example": "彼はクラスで一番人気がある。",
+        "example_meaning": "Anh ấy được yêu thích nhất lớp.",
+        "image": ""
+    },
+    {
+        "japanese": "うわさ (スル)",
+        "phonetic": "うわさ",
+        "vietnamese": "Tin đồn",
+        "example": "クラスメートのうわさをしていたら、そこに本人が現れた。",
+        "example_meaning": "Cậu ấy đến và phát hiện ra mọi người đang lan truyền tin đồn về mình.",
+        "image": ""
+    },
+    {
+        "japanese": "情報",
+        "phonetic": "じょうほう",
+        "vietnamese": "(TÌNH BÁO) Tin tức, thông tin",
+        "example": "テレビからいろいろな情報を得る。",
+        "example_meaning": "Có được nhiều thông tin từ Tivi.",
+        "image": ""
+    },
+    {
+        "japanese": "交換スル",
+        "phonetic": "こうかん",
+        "vietnamese": "(GIAO HOÁN) Trao đổi, thay thế",
+        "example": "{プレゼント/名刺/情報/意見...}を交換する。",
+        "example_meaning": "Trao đổi quà, danh thiếp, thông tin, ý kiến...",
+        "image": ""
+    },
+    {
+        "japanese": "流行スル",
+        "phonetic": "りゅうこう",
+        "vietnamese": "(LƯU HÀNH) Đúng mốt, hợp thời trang, lan rộng",
+        "example": "新しい流行。",
+        "example_meaning": "Mốt mới. (Trào lưu mới)",
+        "image": ""
+    },
+    {
+        "japanese": "宣伝 (スル)",
+        "phonetic": "せんでん",
+        "vietnamese": "(TUYÊN TRUYỀN) Tuyên truyền, công khai",
+        "example": "バーゲンセールの宣伝が始まった。",
+        "example_meaning": "Bắt đầu công khai đợt bán giảm giá.",
+        "image": ""
+    },
+    {
+        "japanese": "広告",
+        "phonetic": "こうこく",
+        "vietnamese": "(QUẢNG CÁO) Quảng cáo",
+        "example": "{新聞/雑誌}に新製品の広告がのっていた。",
+        "example_meaning": "Đăng quảng cáo sản phẩm mới trên báo/ tạp chí.",
+        "image": ""
+    },
+    {
+        "japanese": "注目 (スル)",
+        "phonetic": "ちゅうもく",
+        "vietnamese": "(CHÚ MỤC) Sự chú ý, để ý",
+        "example": "有名歌手の結婚が注目を集めている。",
+        "example_meaning": "Việc kết hôn của ca sỹ nổi tiếng đang thu hút sự chú ý.",
+        "image": ""
+    },
+    {
+        "japanese": "通訳 (スル)",
+        "phonetic": "つうやく",
+        "vietnamese": "(THÔNG DỊCH) Phiên dịch, người phiên dịch",
+        "example": "英語を日本語に通訳する。",
+        "example_meaning": "Phiên dịch tiếng Anh sang tiếng Nhật.",
+        "image": ""
+    },
+    {
+        "japanese": "翻訳 (スル)",
+        "phonetic": "ほんやく",
+        "vietnamese": "(PHIÊN DỊCH) Biên dịch",
+        "example": "日本語の小説を英語に翻訳する。",
+        "example_meaning": "Dịch tiểu thuyết tiếng Nhật sang tiếng Anh.",
+        "image": ""
+    },
+    {
+        "japanese": "伝言 (スル)",
+        "phonetic": "でんごん",
+        "vietnamese": "(TRUYỀN NGÔN) Lời nhắn",
+        "example": "留守番電話に伝言を残す。",
+        "example_meaning": "Để lại lời nhắn vào hộp thư thoại.",
+        "image": ""
+    },
+    {
+        "japanese": "報告 (スル)",
+        "phonetic": "ほうこく",
+        "vietnamese": "(BÁO CÁO) Báo cáo",
+        "example": "出張の報告",
+        "example_meaning": "Báo cáo công tác",
+        "image": ""
+    },
+    {
+        "japanese": "録画 (スル)",
+        "phonetic": "ろくが",
+        "vietnamese": "(LỤC HỌA) Ghi hình",
+        "example": "テレビ番組をビデオに録画する。",
+        "example_meaning": "Ghi hình lại chương trình tivi vào video.",
+        "image": ""
+    },
+    {
+        "japanese": "混雑スル",
+        "phonetic": "こんざつ",
+        "vietnamese": "(HỖN TẠP) Đông đúc, hỗn loạn",
+        "example": "デパートは、大勢の人で混雑している。",
+        "example_meaning": "Cửa hàng bách hóa tổng hợp đang hỗn loạn vì đám đông.",
+        "image": ""
+    },
+    {
+        "japanese": "渋滞スル",
+        "phonetic": "じゅうたい",
+        "vietnamese": "(SÁP TRỆ) Tắc nghẽn",
+        "example": "道路が渋滞していて、会議に遅刻した。",
+        "example_meaning": "Vì tắc đường nên tôi đến trễ cuộc họp.",
+        "image": ""
+    },
+    {
+        "japanese": "衝突 (スル)",
+        "phonetic": "しょうとつ",
+        "vietnamese": "(XUNG ĐỘT) Va chạm, xung đột",
+        "example": "電車の衝突の場面を見た。",
+        "example_meaning": "Tôi đã chứng kiến cảnh va chạm của xe điện.",
+        "image": ""
+    },
+    {
+        "japanese": "被害",
+        "phonetic": "ひがい",
+        "vietnamese": "(BỊ HẠI) Thiệt hại",
+        "example": "台風の被害",
+        "example_meaning": "Thiệt hại do bão",
+        "image": ""
+    },
+    {
+        "japanese": "事故",
+        "phonetic": "じこ",
+        "vietnamese": "(SỰ CỐ) Tai nạn",
+        "example": "事故の原因を調べる。",
+        "example_meaning": "Điều tra nguyên nhân của tai nạn.",
+        "image": ""
+    },
+    {
+        "japanese": "事件",
+        "phonetic": "じけん",
+        "vietnamese": "(SỰ KIỆN) Biến cố, sự việc",
+        "example": "近所で子供が次々となくなるという事件があった。",
+        "example_meaning": "Khu vực gần đây, liên tiếp xảy ra các vụ mất tích trẻ con.",
+        "image": ""
+    },
+    {
+        "japanese": "故障スル",
+        "phonetic": "こしょう",
+        "vietnamese": "(CỐ CHƯỚNG) Sự cố, phá vỡ, hỏng",
+        "example": "洗たく機が故障したので、コインランドリーへ行った。",
+        "example_meaning": "Vì máy giặt bị hỏng nên mang đồ đi giặt ở hiệu giặt (dùng đồng xu) tự động.",
+        "image": ""
+    },
+    {
+        "japanese": "修理 (スル)",
+        "phonetic": "しゅうり",
+        "vietnamese": "(TU LÝ) Sửa chữa",
+        "example": "パソコンがこわれたので、修理に出した。",
+        "example_meaning": "Máy tính bị hỏng nên tôi mang đi sửa.",
+        "image": ""
+    },
+    {
+        "japanese": "停電スル",
+        "phonetic": "ていでん",
+        "vietnamese": "(ĐÌNH ĐIỆN) Mất điện",
+        "example": "雷が落ちて停電した。",
+        "example_meaning": "Sét đánh xuống rồi mất điện.",
+        "image": ""
+    },
+    {
+        "japanese": "調子",
+        "phonetic": "ちょうし",
+        "vietnamese": "(ĐIỀU TỬ) Tình trạng, âm điệu",
+        "example": "{体/機械...}の調子がいい。",
+        "example_meaning": "Tình trạng cơ thể/ máy móc... tốt.",
+        "image": ""
+    },
+    {
+        "japanese": "緊張スル",
+        "phonetic": "きんちょう",
+        "vietnamese": "(KHẨN TRƯƠNG) Căng thẳng, lo lắng",
+        "example": "面接では緊張して、うまく答えられなかった。",
+        "example_meaning": "Lúc phỏng vấn vì căng thẳng nên tôi đã không thể trả lời trôi chảy.",
+        "image": ""
+    },
+    {
+        "japanese": "自信",
+        "phonetic": "じしん",
+        "vietnamese": "(TỰ TÍN) Tự tin",
+        "example": "体力に自信がある。",
+        "example_meaning": "Tự tin vào thể lực.",
+        "image": ""
+    },
+    {
+        "japanese": "自慢 (スル)",
+        "phonetic": "じまん",
+        "vietnamese": "(TỰ MẠN) Tự hào, khoe khoang",
+        "example": "自慢の料理を作る。",
+        "example_meaning": "Làm món tủ.",
+        "image": ""
+    },
+    {
+        "japanese": "感心スル/ナ",
+        "phonetic": "かんしん",
+        "vietnamese": "(CẢM TÂM) Ngưỡng mộ, đáng được khen ngợi",
+        "example": "チンさんの進歩の速さに感心した。",
+        "example_meaning": "Tôi ngưỡng mộ sự tiến bộ nhanh chóng của Chin.",
+        "image": ""
+    },
+    {
+        "japanese": "感動スル",
+        "phonetic": "かんどう",
+        "vietnamese": "(CẢM ĐỘNG) Bị xúc động, cảm động",
+        "example": "パラリンピックを見て、とても{感動した/感動させられた}。",
+        "example_meaning": "Xem Paralympic, tôi đã rất xúc động/ làm tôi cảm thấy xúc động.",
+        "image": ""
+    },
+    {
+        "japanese": "興奮スル",
+        "phonetic": "こうふん",
+        "vietnamese": "(HƯNG PHẤN) Hưng phấn",
+        "example": "試合を見ていた観客たちは、興奮して大声を出した。",
+        "example_meaning": "Khán giả xem trận đấu hưng phấn và reo hò ầm ĩ.",
+        "image": ""
+    },
+    {
+        "japanese": "感想",
+        "phonetic": "かんそう",
+        "vietnamese": "(CẢM TƯỞNG) Cảm giác, ấn tượng",
+        "example": "「ご感想はいかがですか」「すばらしかったです」",
+        "example_meaning": "Bạn cảm thấy thế nào? Rất tuyệt vời.",
+        "image": ""
+    },
+    {
+        "japanese": "予想 (スル)",
+        "phonetic": "よそう",
+        "vietnamese": "(DỰ TƯỞNG) Dự đoán",
+        "example": "選挙の結果を予想する。",
+        "example_meaning": "Dự đoán kết quả bầu cử.",
+        "image": ""
+    },
+    {
+        "japanese": "専門",
+        "phonetic": "せんもん",
+        "vietnamese": "(CHUYÊN MÔN) Chuyên môn",
+        "example": "専門は言語学です。",
+        "example_meaning": "Chuyên môn của tôi là ngôn ngữ học.",
+        "image": ""
+    },
+    {
+        "japanese": "研究 (スル)",
+        "phonetic": "けんきゅう",
+        "vietnamese": "(NGHIÊN CỨU) Nghiên cứu, tìm hiểu, học tập",
+        "example": "私は大学で日本の政治を研究している。",
+        "example_meaning": "Tôi đang nghiên cứu về chính trị Nhật Bản ở trường đại học.",
+        "image": ""
+    },
+    {
+        "japanese": "調査 (スル)",
+        "phonetic": "ちょうさ",
+        "vietnamese": "(ĐIỀU TRA) Điều tra, khảo sát",
+        "example": "調査を行う。",
+        "example_meaning": "Tiến hành điều tra.",
+        "image": ""
+    },
+    {
+        "japanese": "原因",
+        "phonetic": "げんいん",
+        "vietnamese": "(NGUYÊN NHÂN) Nguyên nhân",
+        "example": "今、警察が事故の原因を調べている。",
+        "example_meaning": "Bây giờ, cảnh sát đang tìm hiểu nguyên nhân của vụ tai nạn.",
+        "image": ""
+    },
+    {
+        "japanese": "結果",
+        "phonetic": "けっか",
+        "vietnamese": "(KẾT QUẢ) Kết quả",
+        "example": "１位になりたかったが、結果は３位だった。",
+        "example_meaning": "Tôi muốn vị trí số 1 nhưng kết quả đạt được vị trí thứ 3.",
+        "image": ""
+    },
+    {
+        "japanese": "解決スル",
+        "phonetic": "かいけつ",
+        "vietnamese": "(GIẢI QUYẾT) Giải quyết",
+        "example": "大きな問題が解決した。",
+        "example_meaning": "Vấn đề lớn được giải quyết.",
+        "image": ""
+    },
+    {
+        "japanese": "確認 (スル)",
+        "phonetic": "かくにん",
+        "vietnamese": "(XÁC NHẬN) Xác nhận, xác minh",
+        "example": "まちがいがないかどうか(を)確認する。",
+        "example_meaning": "Kiểm tra lại xem có lỗi sai không.",
+        "image": ""
+    },
+    {
+        "japanese": "利用 (スル)",
+        "phonetic": "りよう",
+        "vietnamese": "(LỢI DỤNG) Sử dụng, khai thác",
+        "example": "水不足なので、水道の利用を減らした。",
+        "example_meaning": "Vì thiếu nước nên phải giảm việc sử dụng nước sinh hoạt.",
+        "image": ""
+    },
+    {
+        "japanese": "理解 (スル)",
+        "phonetic": "りかい",
+        "vietnamese": "(LÝ GIẢI) Hiểu",
+        "example": "意味の理解",
+        "example_meaning": "Hiểu ý nghĩa.",
+        "image": ""
+    },
+    {
+        "japanese": "発見 (スル)",
+        "phonetic": "はっけん",
+        "vietnamese": "(PHÁT KIẾN) Khám phá, tìm thấy, phát hiện",
+        "example": "大きな発見",
+        "example_meaning": "Phát kiến lớn",
+        "image": ""
+    },
+    {
+        "japanese": "発明 (スル)",
+        "phonetic": "はつめい",
+        "vietnamese": "(PHÁT MINH) Phát minh",
+        "example": "ベルは電話を発明した。",
+        "example_meaning": "Bell đã phát minh ra điện thoại.",
+        "image": ""
+    },
+    {
+        "japanese": "関係スル",
+        "phonetic": "かんけい",
+        "vietnamese": "(QUAN HỆ) Quan hệ",
+        "example": "「お二人の関係は」「{親子/兄弟...}です」",
+        "example_meaning": "Quan hệ của hai người là gì? Cha con/ Anh em...",
+        "image": ""
+    },
+    {
+        "japanese": "団体",
+        "phonetic": "だんたい",
+        "vietnamese": "(ĐOÀN THỂ) Nhóm, đoàn thể",
+        "example": "博物館で団体のチケットを買う。",
+        "example_meaning": "Tôi mua vé theo nhóm vào thăm quan viện bảo tàng.",
+        "image": ""
+    },
+    {
+        "japanese": "選挙",
+        "phonetic": "せんきょ",
+        "vietnamese": "(TUYỂN CỬ) Cuộc bầu cử",
+        "example": "１月に選挙が行われる。",
+        "example_meaning": "Tháng 1 cuộc bầu cử sẽ được tiến hành.",
+        "image": ""
+    },
+    {
+        "japanese": "税金",
+        "phonetic": "ぜいきん",
+        "vietnamese": "(THUẾ KIM) Thuế",
+        "example": "年度末に税金を払う。",
+        "example_meaning": "Trả tiền thuế vào cuối năm.",
+        "image": ""
+    },
+    {
+        "japanese": "責任",
+        "phonetic": "せきにん",
+        "vietnamese": "(TRÁCH NHIỆM) Trách nhiệm",
+        "example": "「この失敗はあなたの責任ではない」",
+        "example_meaning": "Thất bại này không phải là trách nhiệm của bạn.",
+        "image": ""
+    },
+    {
+        "japanese": "書類",
+        "phonetic": "しょるい",
+        "vietnamese": "(THƯ LOẠI) Tài liệu, hồ sơ, giấy tờ",
+        "example": "留学の手続きに必要な書類を準備する。",
+        "example_meaning": "Chuẩn bị giấy tờ cần thiết để làm thủ tục du học.",
+        "image": ""
+    },
+    {
+        "japanese": "題名",
+        "phonetic": "だいめい",
+        "vietnamese": "(ĐỀ DANH) Nhan đề, tên (sách...)",
+        "example": "コンクールに出す作品に題名をつける。",
+        "example_meaning": "Đặt tên cho tác phẩm tham gia cuộc thi.",
+        "image": ""
+    },
+    {
+        "japanese": "条件",
+        "phonetic": "じょうけん",
+        "vietnamese": "(ĐIỀU KIỆN) Điều kiện",
+        "example": "運転免許を持っていることが採用の条件だ。",
+        "example_meaning": "Điều kiện tuyển dụng là phải có bằng lái xe.",
+        "image": ""
+    },
+    {
+        "japanese": "締め切り",
+        "phonetic": "しめきり",
+        "vietnamese": "(ĐẾ THIẾT) Hạn cuối",
+        "example": "レポートの締め切りは３０日です。",
+        "example_meaning": "Ngày 30 là hạn cuối nộp báo cáo.",
+        "image": ""
+    },
+    {
+        "japanese": "期間",
+        "phonetic": "きかん",
+        "vietnamese": "(KỲ GIAN) Kỳ, thời kỳ",
+        "example": "{申し込み/休業/工事...}期間は１２月一日から三日までです。",
+        "example_meaning": "Thời gian đăng ký/ đóng cửa/ thi công xây dựng là ngày 1 đến ngày 3 tháng 12.",
+        "image": ""
+    },
+    {
+        "japanese": "倍",
+        "phonetic": "ばい",
+        "vietnamese": "(BỘI) Gấp đôi, lần",
+        "example": "値段が倍になる。",
+        "example_meaning": "Giá tăng lên gấp đôi.",
+        "image": ""
+    },
+    {
+        "japanese": "くじ",
+        "phonetic": "くじ",
+        "vietnamese": "Rút thăm, điều may rủi, xổ số",
+        "example": "スーパーで買い物をしてくじをひいたら、テレビが当たった。",
+        "example_meaning": "Đi mua đồ ở siêu thị, sau khi rút thăm trúng thưởng thì đã trúng được cái ti vi.",
+        "image": ""
+    },
+    {
+        "japanese": "近道 (スル)",
+        "phonetic": "ちかみち",
+        "vietnamese": "(CẬN ĐẠO) Đường tắt",
+        "example": "駅への近道を通る。",
+        "example_meaning": "Đến nhà ga thông qua đường tắt.",
+        "image": ""
+    },
+    {
+        "japanese": "中心",
+        "phonetic": "ちゅうしん",
+        "vietnamese": "(TRUNG TÂM) Trung tâm",
+        "example": "町の中心",
+        "example_meaning": "Trung tâm thành phố",
+        "image": ""
+    },
+    {
+        "japanese": "穴",
+        "phonetic": "あな",
+        "vietnamese": "(HUYỆT) Lỗ",
+        "example": "地面に穴を掘る。",
+        "example_meaning": "Đào một cái lỗ trên mặt đất.",
+        "image": ""
+    },
+    {
+        "japanese": "列",
+        "phonetic": "れつ",
+        "vietnamese": "(LIỆT) Hàng, dòng",
+        "example": "入り口の前に長い列ができてきた。",
+        "example_meaning": "Có một hàng dài trước cổng vào.",
+        "image": ""
+    },
+    {
+        "japanese": "幅",
+        "phonetic": "はば",
+        "vietnamese": "(PHÚC) Chiều rộng, phạm vi",
+        "example": "道の幅はばが広い。",
+        "example_meaning": "Chiều rộng của con đường này rộng.",
+        "image": ""
+    },
+    {
+        "japanese": "範囲",
+        "phonetic": "はんい",
+        "vietnamese": "(PHẠM VI) Phạm vi",
+        "example": "試験の範囲",
+        "example_meaning": "Phạm vi thi",
+        "image": ""
+    },
+    {
+        "japanese": "内容",
+        "phonetic": "ないよう",
+        "vietnamese": "(NỘI DUNG) Nội dung",
+        "example": "{話/授業/本/ニュース...}の内容。",
+        "example_meaning": "Nội dung cuộc nói chuyện/ bài giảng/ sách/ bản tin...",
+        "image": ""
+    },
+    {
+        "japanese": "中身",
+        "phonetic": "なかみ",
+        "vietnamese": "(TRUNG THÂN) Bên trong, nội dung",
+        "example": "箱を開けて中身を見る。",
+        "example_meaning": "Mở hộp xem bên trong.",
+        "image": ""
+    },
+    {
+        "japanese": "特徴",
+        "phonetic": "とくちょう",
+        "vietnamese": "(ĐẶC TRƯNG) Đặc trưng, đặt tính",
+        "example": "商品の特徴を確かめる。",
+        "example_meaning": "Xác định đặc tính của sản phẩm.",
+        "image": ""
+    },
+    {
+        "japanese": "普通",
+        "phonetic": "ふつう",
+        "vietnamese": "(PHỔ THÔNG) Bình thường, thông thường",
+        "example": "パスポートの申請には１週間ぐらいかかるのがふつうだ。",
+        "example_meaning": "Việc xin passport thông thường mất 1 tuần.",
+        "image": ""
+    },
+    {
+        "japanese": "当たり前",
+        "phonetic": "あたりまえ",
+        "vietnamese": "(ĐƯƠNG TIÊN) Dĩ nhiên, đương nhiên",
+        "example": "そんなひどいことをされたら、怒るのがあたりまえだ。",
+        "example_meaning": "Nếu bị chửi xẩu như thế thì nổi giận là chuyện đương nhiên.",
+        "image": ""
+    },
+    {
+        "japanese": "偽",
+        "phonetic": "にせ",
+        "vietnamese": "(NGỤY) Giả",
+        "example": "にせ(の)銀行員にだまされてお金を取られた。",
+        "example_meaning": "Bị nhân viên ngân hàng giả mạo lừa lấy hết tiền.",
+        "image": ""
+    },
+    {
+        "japanese": "別",
+        "phonetic": "べつ",
+        "vietnamese": "(BIỆT) Khác nhau, riêng biệt",
+        "example": "「米」は「ごはん」とは別のものだ。",
+        "example_meaning": "Gạo khác với cơm.",
+        "image": ""
+    },
+    {
+        "japanese": "国籍",
+        "phonetic": "こくせき",
+        "vietnamese": "(QUỐC TỊCH) Quốc tịch",
+        "example": "私はずっとアメリカで暮らしているが、国籍は日本だ。",
+        "example_meaning": "Tôi cư trú ở Mỹ nhưng quốc tịch Nhật.",
+        "image": ""
+    },
+    {
+        "japanese": "東洋",
+        "phonetic": "とうよう",
+        "vietnamese": "(ĐÔNG DƯƠNG) Phương Đông",
+        "example": "東洋の文化と西洋の文化を比べる。",
+        "example_meaning": "So sánh văn hóa phương đông và phương Tây.",
+        "image": ""
+    },
+    {
+        "japanese": "西洋",
+        "phonetic": "せいよう",
+        "vietnamese": "(TÂY DƯƠNG) Phương Tây, thuộc về",
+        "example": "東洋の文化と西洋の文化を比べる。",
+        "example_meaning": "So sánh văn hóa phương đông và phương Tây.",
+        "image": ""
+    },
+    {
+        "japanese": "国際",
+        "phonetic": "こくさい",
+        "vietnamese": "(QUỐC TẾ) Quốc tế",
+        "example": "日本企業の海外支社でのトラブルが国際問題に発展した。",
+        "example_meaning": "Vấn đề ở chi nhánh nước ngoài của xí nghiệp Nhật Bản đã phát triển thành vấn đề quốc tế.",
+        "image": ""
+    },
+    {
+        "japanese": "自然",
+        "phonetic": "しぜん",
+        "vietnamese": "(TỰ NHIÊN) Tự nhiên",
+        "example": "山や海へ行って、自然の中で過ごす。",
+        "example_meaning": "Đi núi hay biển và sống mình trong thiên nhiên.",
+        "image": ""
+    },
+    {
+        "japanese": "景色",
+        "phonetic": "けしき",
+        "vietnamese": "(CẢNH SẮC) Phong cảnh, cảnh sắc",
+        "example": "初めて日本の山に行った。すばらしい景色だった。",
+        "example_meaning": "Lần đầu tiên đi chơi núi của Nhật Bản, phong cảnh đẹp tuyệt vời.",
+        "image": ""
+    },
+    {
+        "japanese": "宗教",
+        "phonetic": "しゅうきょう",
+        "vietnamese": "(TÔNG GIÁO) Tôn giáo",
+        "example": "世界にはいろいろな宗教がある。",
+        "example_meaning": "Trên thế giới này có rất nhiều tôn giáo.",
+        "image": ""
+    },
+    {
+        "japanese": "愛スル",
+        "phonetic": "あい",
+        "vietnamese": "(ÁI) Tình yêu",
+        "example": "私は{家族/自然/国...}を愛している。",
+        "example_meaning": "Tôi yêu gia đình/ tự nhiên/ đất nước...",
+        "image": ""
+    },
+    {
+        "japanese": "届く",
+        "phonetic": "とどく",
+        "vietnamese": "(GIỚI) Được giao, chạm tới",
+        "example": "父から手紙が届いた。",
+        "example_meaning": "Bức thư của bố tôi được giao đến.",
+        "image": ""
+    },
+    {
+        "japanese": "届ける",
+        "phonetic": "とどける",
+        "vietnamese": "(GIỚI) Giao đến, thông báo",
+        "example": "隣の家に旅行のおみやげを届けた。",
+        "example_meaning": "Mang quà du lịch đến nhà bên cạnh.",
+        "image": ""
+    },
+    {
+        "japanese": "かく",
+        "phonetic": "かく",
+        "vietnamese": "Đổ, toát mồ hôi, gãi, xấu hổ, mất mặt",
+        "example": "頭をかく。",
+        "example_meaning": "Gãi đầu",
+        "image": ""
+    },
+    {
+        "japanese": "つかむ",
+        "phonetic": "つかむ",
+        "vietnamese": "Nắm, bắt, túm, tóm được",
+        "example": "電車で突然腕をつかまれてびっくりした。",
+        "example_meaning": "Ở trên tàu bỗng nhiên tay bị ai đó nắm cánh tay, giật hết cả mình.",
+        "image": ""
+    },
+    {
+        "japanese": "握る",
+        "phonetic": "にぎる",
+        "vietnamese": "(ÁC) Túm lấy, nắm lấy",
+        "example": "子どもはこわがって母親の手を強くにぎった。",
+        "example_meaning": "Đứa trẻ tỏ vẻ sợ hãi nắm chặt lấy tay mẹ.",
+        "image": ""
+    },
+    {
+        "japanese": "押さえる",
+        "phonetic": "おさえる",
+        "vietnamese": "(ÁP) Nắm bắt, giữ",
+        "example": "あの人はおなかを押さえて座っている。",
+        "example_meaning": "Cái người kia cứ ngồi ôm bụng.",
+        "image": ""
+    },
+    {
+        "japanese": "近づく",
+        "phonetic": "ちかづく",
+        "vietnamese": "(CẬN) Lại gần",
+        "example": "目的地{が/に}近づく。",
+        "example_meaning": "Đã tiến gần đến địa điểm đích.",
+        "image": ""
+    },
+    {
+        "japanese": "近づける",
+        "phonetic": "ちかづける",
+        "vietnamese": "(CẬN) Mang, đưa đến gần",
+        "example": "車を道のわきに近づける。",
+        "example_meaning": "Lái xe tiến vào gần lề đường.",
+        "image": ""
+    },
+    {
+        "japanese": "合う",
+        "phonetic": "あう",
+        "vietnamese": "(GÁP) Gặp, hợp, đúng",
+        "example": "ふと顔を上げると、先生と目が合ってしまった。",
+        "example_meaning": "Bất chợt ngẩng mặt lên thì gặp ánh mắt giáo viên.",
+        "image": ""
+    },
+    {
+        "japanese": "合わせる",
+        "phonetic": "あわせる",
+        "vietnamese": "(HỢP) Hợp, chỉnh (đồng hồ)",
+        "example": "みんなで力を合わせて頑張りましょう。",
+        "example_meaning": "Mọi người cùng chung sức cố gắng nhé.",
+        "image": ""
+    },
+    {
+        "japanese": "当たる",
+        "phonetic": "あたる",
+        "vietnamese": "(ĐƯƠNG) Bị đánh, trúng, đối đầu",
+        "example": "ボールが当たって窓ガラスが割れた。",
+        "example_meaning": "Quả bóng bay đập vào cái cửa sổ thế là vỡ kính.",
+        "image": ""
+    },
+    {
+        "japanese": "当てる",
+        "phonetic": "あてる",
+        "vietnamese": "(ĐƯƠNG) Đánh, đúng, chạm",
+        "example": "相手選手のボールが速いので、ラケットに当てるのも大変だ。",
+        "example_meaning": "Vì bóng của đối phương rất nhanh nên đỡ trúng vợt rất khó.",
+        "image": ""
+    },
+    {
+        "japanese": "比べる",
+        "phonetic": "くらべる",
+        "vietnamese": "(TỈ) So sánh",
+        "example": "東京と大阪の面積を比べる。",
+        "example_meaning": "So sánh diện tích của Tokyo và Osaka.",
+        "image": ""
+    },
+    {
+        "japanese": "似合う",
+        "phonetic": "にあう",
+        "vietnamese": "(TỰ HỢP) Hợp, vừa",
+        "example": "彼女は着物がよく似合う。",
+        "example_meaning": "Cô ấy rất hợp với Kimono.",
+        "image": ""
+    },
+    {
+        "japanese": "似る",
+        "phonetic": "にる",
+        "vietnamese": "(TỰ) Giống",
+        "example": "彼女は母親によく似ている。",
+        "example_meaning": "Cô ấy rất giống mẹ.",
+        "image": ""
+    },
+    {
+        "japanese": "増える",
+        "phonetic": "ふえる",
+        "vietnamese": "(TĂNG) Tăng lên, gia tăng",
+        "example": "{貯金/体重/人口...}が増える。",
+        "example_meaning": "Tiền tiết kiệm/cân nặng/dân số tăng.",
+        "image": ""
+    },
+    {
+        "japanese": "増やす",
+        "phonetic": "ふやす",
+        "vietnamese": "(TĂNG) Làm tăng thêm",
+        "example": "{貯金/体重/人口...}を増やす。",
+        "example_meaning": "Tăng tiền tiết kiệm/cân nặng/dân số...",
+        "image": ""
+    },
+    {
+        "japanese": "減る",
+        "phonetic": "へる",
+        "vietnamese": "(GIẢM) Giảm",
+        "example": "{貯金/体重/人口...}が減る。",
+        "example_meaning": "Tiền tiết kiệm/cân nặng/dân số giảm",
+        "image": ""
+    },
+    {
+        "japanese": "減らす",
+        "phonetic": "へらす",
+        "vietnamese": "(GIẢM) Cắt giảm",
+        "example": "{貯金/体重/人口...}を減らす。",
+        "example_meaning": "Giảm tiền tiết kiệm/cân nặng/dân số...",
+        "image": ""
+    },
+    {
+        "japanese": "変わる",
+        "phonetic": "かわる",
+        "vietnamese": "(BIẾN) Thay đổi, biến đổi",
+        "example": "{季節/時代/場所/法律/性格...}が変わる。",
+        "example_meaning": "Thời tiết/ thời đại/ địa điểm/ luật pháp/ cuộc sống thay đổi...",
+        "image": ""
+    },
+    {
+        "japanese": "変える",
+        "phonetic": "かえる",
+        "vietnamese": "(BIẾN) Đổi",
+        "example": "{髪型/時間/場所/法律...}を変える。",
+        "example_meaning": "Thay đổi kiểu tóc/ thời gian/ địa chỉ/ luật pháp...",
+        "image": ""
+    },
+    {
+        "japanese": "替わる/代わる/換わる",
+        "phonetic": "かわる",
+        "vietnamese": "(THẾ/ĐẠI/HOÁN) Thay đổi, thay thế",
+        "example": "４月に店長がかわった。",
+        "example_meaning": "Thay quản lý mới vào tháng 4.",
+        "image": ""
+    },
+    {
+        "japanese": "替える/代える/換える",
+        "phonetic": "かえる",
+        "vietnamese": "(THẾ/ĐẠI/HOÁN) Thay đổi, thế chỗ cái gì đó",
+        "example": "千円札を百円玉にかえてもらった。",
+        "example_meaning": "Muốn đổi tờ nghìn Yên qua đồng xu 100 Yên.",
+        "image": ""
+    },
+    {
+        "japanese": "返る",
+        "phonetic": "かえる",
+        "vietnamese": "(PHẢN) Được trả lại",
+        "example": "友だちに貸したお金が返ってきた。",
+        "example_meaning": "Tiền cho bạn vay đã được trả lại.",
+        "image": ""
+    },
+    {
+        "japanese": "返す",
+        "phonetic": "かえす",
+        "vietnamese": "(PHẢN) Trả lại",
+        "example": "この本は２週間以内に図書館に返さなければならない。",
+        "example_meaning": "Trong vòng 2 tuần phải trả lại sách cho thư viện.",
+        "image": ""
+    },
+    {
+        "japanese": "譲る",
+        "phonetic": "ゆずる",
+        "vietnamese": "(NHƯỢNG) Bàn giao, chuyển nhượng",
+        "example": "電車の中で、お年よりに席をゆずった。",
+        "example_meaning": "Trong xe điện, tôi đã nhường ghế cho cụ già.",
+        "image": ""
+    },
+    {
+        "japanese": "助かる",
+        "phonetic": "たすかる",
+        "vietnamese": "(TRỢ) Được cứu giúp (sống sót), có lợi, có ích",
+        "example": "飛行機が落ちたが、３人が助かった。",
+        "example_meaning": "Máy bay rơi, có 3 người sống sót.",
+        "image": ""
+    },
+    {
+        "japanese": "助ける",
+        "phonetic": "たすける",
+        "vietnamese": "(TRỢ) Cứu, giúp",
+        "example": "川に落ちた子供を助けた。",
+        "example_meaning": "Cứu đứa trẻ bị rơi xuống sông.",
+        "image": ""
+    },
+    {
+        "japanese": "いじめる",
+        "phonetic": "いじめる",
+        "vietnamese": "Bắt nạt, ăn hiếp, chọc ghẹo",
+        "example": "{弟/ネコ...}をいじめる。",
+        "example_meaning": "Bắt nạt em, bắt nạt con mèo",
+        "image": ""
+    },
+    {
+        "japanese": "だます",
+        "phonetic": "だます",
+        "vietnamese": "Lừa bịp",
+        "example": "彼は「独身だ」とだまして５人の女性とつきあっていた。",
+        "example_meaning": "Anh ta nói dối rằng độc thân và cặp kè cùng lúc 5 cô gái.",
+        "image": ""
+    },
+    {
+        "japanese": "盗む",
+        "phonetic": "ぬすむ",
+        "vietnamese": "(ĐẠO) Ăn cắp, trộm",
+        "example": "留守中にどろぼうに入られて、お金をぬすまれてしまった。",
+        "example_meaning": "Khi vắng nhà thì bị trộm lẻn vào, lấy cắp mất tiền.",
+        "image": ""
+    },
+    {
+        "japanese": "刺さる",
+        "phonetic": "ささる",
+        "vietnamese": "(THỨ) Mắc, hóc, đâm",
+        "example": "指にとげが刺さって痛い。",
+        "example_meaning": "Gai đâm (mắc) vào ngón tay đau vãi.",
+        "image": ""
+    },
+    {
+        "japanese": "刺す",
+        "phonetic": "さす",
+        "vietnamese": "(THỨ) Cắn, hút, chích, châm, thọc",
+        "example": "指にとげを刺してしまった。",
+        "example_meaning": "Đâm gai vào ngón tay.",
+        "image": ""
+    },
+    {
+        "japanese": "殺す",
+        "phonetic": "ころす",
+        "vietnamese": "(SÁT) Giết, sát hại",
+        "example": "ゴキブリをスリッパでたたいて殺した。",
+        "example_meaning": "Dùng dép đập chết con gián.",
+        "image": ""
+    },
+    {
+        "japanese": "隠れる",
+        "phonetic": "かくれる",
+        "vietnamese": "(ẨN) Trốn, nấp, núp",
+        "example": "逃げた犯人は空き家に隠れていた。",
+        "example_meaning": "Tên tội phạm bỏ chạy đang ẩn núp trong ngôi nhà hoang.",
+        "image": ""
+    },
+    {
+        "japanese": "隠す",
+        "phonetic": "かくす",
+        "vietnamese": "(ẨN) Bao bọc, che giấu, che đậy",
+        "example": "お金を引き出しの奥にかくした。",
+        "example_meaning": "Giấu tiền sâu bên trong ngăn kéo.",
+        "image": ""
+    },
+    {
+        "japanese": "埋まる",
+        "phonetic": "うまる",
+        "vietnamese": "(MAI) Bị chôn, lấp",
+        "example": "山がくずれて家が埋まってしまった。",
+        "example_meaning": "Núi lở nhà cửa bị chôn vùi.",
+        "image": ""
+    },
+    {
+        "japanese": "埋める",
+        "phonetic": "うめる",
+        "vietnamese": "(MAI) Chôn cất, mai táng, lấp đầy",
+        "example": "あなを掘ってごみをうめた。",
+        "example_meaning": "Đào lỗ rồi chôn rác.",
+        "image": ""
+    },
+    {
+        "japanese": "囲む",
+        "phonetic": "かこむ",
+        "vietnamese": "(VI) Bao quanh, vây quanh",
+        "example": "テーブルを囲んで座る。",
+        "example_meaning": "Ngồi quanh bàn.",
+        "image": ""
+    },
+    {
+        "japanese": "詰まる",
+        "phonetic": "つまる",
+        "vietnamese": "(CẬT) Chất, chật, tắc, bít, gần lại",
+        "example": "かばんにたくさん荷物が詰まっていて重い。",
+        "example_meaning": "Hành lí chất đầy trong cặp, nặng vời.",
+        "image": ""
+    },
+    {
+        "japanese": "詰める",
+        "phonetic": "つめる",
+        "vietnamese": "(CẬT) Chất, nhét vào, rút ngắn (khoảng cách)",
+        "example": "かばんに荷物を詰める。",
+        "example_meaning": "Nhét đầy đồ vào cặp.",
+        "image": ""
+    },
+    {
+        "japanese": "開く",
+        "phonetic": "ひらく",
+        "vietnamese": "(KHAI) Mở, tổ chức",
+        "example": "ドアが開く。",
+        "example_meaning": "Mở cửa",
+        "image": ""
+    },
+    {
+        "japanese": "閉じる",
+        "phonetic": "とじる",
+        "vietnamese": "(BẾ) Đóng",
+        "example": "エレベーターのドアが閉じた。",
+        "example_meaning": "Đóng cửa thang máy.",
+        "image": ""
+    },
+    {
+        "japanese": "飛ぶ",
+        "phonetic": "とぶ",
+        "vietnamese": "(PHI) Bay, biến mất",
+        "example": "鳥が空を飛んでいる。",
+        "example_meaning": "Chim đang bay trên bầu trời.",
+        "image": ""
+    },
+    {
+        "japanese": "飛ばす",
+        "phonetic": "とばす",
+        "vietnamese": "(PHI) Bắn, phóng, làm cho bay, bỏ qua",
+        "example": "紙飛行機を飛ばす。",
+        "example_meaning": "Phóng máy bay giấy.",
+        "image": ""
+    }
+
+
 ]

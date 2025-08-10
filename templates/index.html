@@ -33,6 +33,24 @@
         </div>
     </div>
 
+    <!-- Thêm phần tìm kiếm -->
+    <div class="w-full max-w-5xl bg-white rounded-2xl shadow-lg p-6 mt-4">
+        <div class="flex flex-col md:flex-row items-center justify-between space-y-4 md:space-y-0">
+            <!-- Tìm số thứ tự -->
+            <div class="flex items-center space-x-2">
+                <label for="searchIndex" class="text-pink-600 font-semibold">Tìm số thứ tự:</label>
+                <input id="searchIndex" type="number" class="border border-pink-300 rounded px-2 py-1" placeholder="Nhập số thứ tự">
+                <button id="searchIndexBtn" class="bg-pink-300 text-white px-4 py-2 rounded hover:bg-pink-400">Tìm</button>
+            </div>
+            <!-- Tìm từ -->
+            <div class="flex items-center space-x-2">
+                <label for="searchWord" class="text-pink-600 font-semibold">Tìm từ:</label>
+                <input id="searchWord" type="text" class="border border-pink-300 rounded px-2 py-1" placeholder="Nhập từ cần tìm">
+                <button id="searchWordBtn" class="bg-pink-300 text-white px-4 py-2 rounded hover:bg-pink-400">Tìm</button>
+            </div>
+        </div>
+    </div>
+
     <script>
         let vocabData = [];
         let currentPage = 0;
@@ -140,6 +158,29 @@
             if (currentPage > 0) {
                 currentPage--;
                 displayWords();
+            }
+        });
+
+        // Tìm số thứ tự
+        document.getElementById('searchIndexBtn').addEventListener('click', () => {
+            const index = parseInt(document.getElementById('searchIndex').value, 10) - 1;
+            if (index >= 0 && index < vocabData.length) {
+                currentPage = Math.floor(index / pageSize);
+                displayWords();
+            } else {
+                alert('Số thứ tự không hợp lệ!');
+            }
+        });
+
+        // Tìm từ
+        document.getElementById('searchWordBtn').addEventListener('click', () => {
+            const searchWord = document.getElementById('searchWord').value.trim();
+            const foundIndex = vocabData.findIndex(word => word.japanese.includes(searchWord) || word.vietnamese.includes(searchWord));
+            if (foundIndex !== -1) {
+                currentPage = Math.floor(foundIndex / pageSize);
+                displayWords();
+            } else {
+                alert('Không tìm thấy từ!');
             }
         });
 
