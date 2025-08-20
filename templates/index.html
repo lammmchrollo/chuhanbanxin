@@ -17,6 +17,11 @@
             object-fit: contain;
             background-color: #f8f8f8;
         }
+        .phonetic {
+            text-align: center;
+            font-style: italic;
+            color: #d63384; /* Màu sắc tùy chỉnh */
+        }
     </style>
 </head>
 <body class="bg-pink-50 font-sans min-h-screen flex flex-col items-center justify-center p-4">
@@ -48,24 +53,37 @@
                 <input id="searchWord" type="text" class="border border-pink-300 rounded px-2 py-1" placeholder="Nhập từ cần tìm">
                 <button id="searchWordBtn" class="bg-pink-300 text-white px-4 py-2 rounded hover:bg-pink-400">Tìm</button>
             </div>
+            <!-- Chọn số trang -->
+            <div class="flex items-center space-x-2">
+                <label for="pageInput" class="text-pink-600 font-semibold">Chọn trang:</label>
+                <input id="pageInput" type="number" class="border border-pink-300 rounded px-2 py-1" placeholder="Nhập số trang">
+                <button id="goToPageBtn" class="bg-pink-300 text-white px-4 py-2 rounded hover:bg-pink-400">Đi tới</button>
+            </div>
         </div>
     </div>
 
+    <!-- Nút hiện/ẩn tất cả -->
+    <div class="flex justify-center mt-4 space-x-4">
+        <button id="showAllBtn" class="bg-green-300 text-white px-4 py-2 rounded hover:bg-green-400">Hiện tất cả</button>
+        <button id="hideAllBtn" class="bg-red-300 text-white px-4 py-2 rounded hover:bg-red-400">Ẩn tất cả</button>
+    </div>
+
     <script>
-        let vocabData = [];
+        let vocabData = []; // Dữ liệu toàn bộ từ vựng
         let currentPage = 0;
         const pageSize = 5;
+        let showAll = false; // Biến toàn cục để lưu trạng thái hiện/ẩn
 
         async function fetchVocab() {
             try {
                 const res = await fetch('/api/vocab');
-                vocabData = await res.json();
+                vocabData = await res.json(); // Lưu toàn bộ dữ liệu từ vựng
                 if (vocabData.length === 0) {
                     document.getElementById('vocab-container').innerHTML = '<p class="text-center text-gray-500">Không có dữ liệu từ vựng.</p>';
                     return;
                 }
                 currentPage = 0;
-                displayWords();
+                displayWords(); // Hiển thị trang đầu tiên
             } catch (error) {
                 document.getElementById('vocab-container').innerHTML = '<p class="text-center text-red-500">Lỗi khi tải dữ liệu từ vựng.</p>';
             }
@@ -85,55 +103,39 @@
             for (let i = start; i < end; i++) {
                 const word = vocabData[i];
                 const card = document.createElement('div');
-                card.className = 'vocab-card bg-pink-100 rounded-xl p-4 shadow flex flex-col items-center w-48';
+                card.className = 'vocab-card bg-pink-100 rounded-xl p-4 shadow flex flex-col items-center w-48 cursor-pointer';
+                card.addEventListener('click', () => toggleDetails(card));
 
                 // Hiển thị số thứ tự
-                const id = document.createElement('div');
-                id.textContent = `#${i + 1}`; // Số thứ tự bắt đầu từ 1
-                id.className = 'text-sm font-bold text-gray-500';
-                card.appendChild(id);
+                const index = document.createElement('div');
+                index.textContent = `#${i + 1}`;
+                index.className = 'text-sm font-semibold text-gray-500 mb-2';
+                card.appendChild(index);
 
-                // Chỉ hiển thị ảnh nếu trường image không rỗng
-                if (word.image) {
-                    const img = document.createElement('img');
-                    img.src = word.image;
-                    img.alt = 'Ảnh';
-                    img.className = 'h-24 w-full object-contain rounded mb-1';
-                    card.appendChild(img);
-                } else {
-                    const img = document.createElement('img');
-                    img.src = '/static/default-image.png'; // Sử dụng ảnh mặc định
-                    img.alt = 'Ảnh mặc định';
-                    img.className = 'h-24 w-full object-contain rounded mb-1';
-                    card.appendChild(img);
-                }
+                // Hiển thị ảnh
+                const img = document.createElement('img');
+                img.src = word.image || '/static/default-image.png';
+                img.alt = 'Ảnh';
+                img.className = 'h-24 w-full object-contain rounded mb-1';
+                card.appendChild(img);
 
+                // Hiển thị từ Hán
                 const jp = document.createElement('div');
                 jp.textContent = word.japanese;
                 jp.className = 'text-xl font-bold text-pink-600';
                 card.appendChild(jp);
 
-                const phon = document.createElement('div');
-                phon.textContent = word.phonetic;
-                phon.className = 'text-base text-pink-800 italic';
-                card.appendChild(phon);
-
-                const vi = document.createElement('div');
-                vi.textContent = "Nghĩa: " + word.vietnamese;
-                vi.className = 'text-base text-pink-900';
-                card.appendChild(vi);
-
-                const ex = document.createElement('div');
-                ex.textContent = "Ví dụ: " + word.example;
-                ex.className = 'text-sm text-gray-700 italic';
-                card.appendChild(ex);
-
-                if (word.example_meaning) {
-                    const exMean = document.createElement('div');
-                    exMean.textContent = "Nghĩa ví dụ: " + word.example_meaning;
-                    exMean.className = 'text-xs text-gray-500 italic';
-                    card.appendChild(exMean);
-                }
+                // Thông tin chi tiết (ẩn ban đầu)
+                const details = document.createElement('div');
+                details.className = 'hidden-details';
+                details.style.display = showAll ? 'block' : 'none'; // Áp dụng trạng thái hiện/ẩn
+                details.innerHTML = `
+                    <div class="phonetic">${word.phonetic}</div> <!-- Thêm lớp phonetic -->
+                    <div class="text-base text-pink-900">Nghĩa: ${word.vietnamese}</div>
+                    <div class="text-sm text-gray-700 italic">Ví dụ: ${word.example}</div>
+                    ${word.example_meaning ? `<div class="text-xs text-gray-500 italic">Nghĩa ví dụ: ${word.example_meaning}</div>` : ''}
+                `;
+                card.appendChild(details);
 
                 if (i - start < 2) {
                     row1.appendChild(card);
@@ -145,6 +147,13 @@
             container.appendChild(row2);
 
             document.getElementById('pageInfo').textContent = `Trang ${currentPage + 1} / ${Math.ceil(vocabData.length / pageSize)}`;
+        }
+
+        function toggleDetails(card) {
+            const details = card.querySelector('.hidden-details');
+            if (details) {
+                details.style.display = details.style.display === 'none' ? 'block' : 'none';
+            }
         }
 
         document.getElementById('nextBtn').addEventListener('click', () => {
@@ -182,6 +191,35 @@
             } else {
                 alert('Không tìm thấy từ!');
             }
+        });
+
+        // Chọn số trang
+        document.getElementById('goToPageBtn').addEventListener('click', () => {
+            const pageInput = parseInt(document.getElementById('pageInput').value, 10) - 1;
+            if (pageInput >= 0 && pageInput < Math.ceil(vocabData.length / pageSize)) {
+                currentPage = pageInput;
+                displayWords();
+            } else {
+                alert('Số trang không hợp lệ!');
+            }
+        });
+
+        // Hiện tất cả
+        document.getElementById('showAllBtn').addEventListener('click', () => {
+            showAll = true; // Cập nhật trạng thái
+            const allDetails = document.querySelectorAll('.hidden-details');
+            allDetails.forEach(details => {
+                details.style.display = 'block'; // Hiện tất cả thông tin chi tiết
+            });
+        });
+
+        // Ẩn tất cả
+        document.getElementById('hideAllBtn').addEventListener('click', () => {
+            showAll = false; // Cập nhật trạng thái
+            const allDetails = document.querySelectorAll('.hidden-details');
+            allDetails.forEach(details => {
+                details.style.display = 'none'; // Ẩn tất cả thông tin chi tiết
+            });
         });
 
         fetchVocab();
