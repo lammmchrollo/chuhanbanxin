@@ -8,25 +8,52 @@
     <style>
         .vocab-card {
             transition: transform 0.2s, box-shadow 0.2s;
+            padding: 2rem; /* Tăng kích thước padding */
         }
         .vocab-card:hover {
-            transform: scale(1.05);
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+            transform: scale(1.1); /* Tăng hiệu ứng phóng to khi hover */
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3); /* Tăng độ rõ của shadow */
         }
         .vocab-card img {
             object-fit: contain;
             background-color: #f8f8f8;
+            height: 150px; /* Tăng chiều cao ảnh */
+            width: 150px; /* Tăng chiều rộng ảnh */
         }
         .phonetic {
             text-align: center;
             font-style: italic;
             color: #d63384; /* Màu sắc tùy chỉnh */
+            font-size: 1.2rem; /* Tăng kích thước chữ */
+        }
+        h1 {
+            font-size: 2.5rem; /* Tăng kích thước tiêu đề */
+        }
+        button {
+            font-size: 1.5rem; /* Tăng kích thước chữ trong nút */
+            padding: 1rem 2rem; /* Tăng kích thước nút */
+        }
+        input {
+            font-size: 1.2rem; /* Tăng kích thước chữ trong ô nhập */
+            padding: 0.5rem; /* Tăng kích thước padding của ô nhập */
+        }
+        label {
+            font-size: 1.2rem; /* Tăng kích thước chữ của nhãn */
+        }
+        #vocab-container {
+            gap: 2rem; /* Tăng khoảng cách giữa các từ */
+        }
+        .small-button {
+            font-size: 0.6rem; /* Làm chữ nhỏ hơn nữa */
+            padding: 0.1rem 0.3rem; /* Giảm padding để khung nhỏ hơn */
+            border-radius: 0.2rem; /* Bo góc nhỏ hơn */
+            line-height: 1; /* Giảm chiều cao dòng */
         }
     </style>
 </head>
 <body class="bg-pink-50 font-sans min-h-screen flex flex-col items-center justify-center p-4">
     <div class="w-full max-w-5xl bg-white rounded-2xl shadow-lg p-6 space-y-6">
-        <h1 class="text-3xl font-bold text-center text-pink-600">🌸 Học Tiếng Nhật 🌸</h1>
+        <h1 class="text-3xl font-bold text-center text-pink-600">🌸 Ôn tập kanji nhéee ạaa 🌸</h1>
 
         <div class="flex flex-row items-center justify-center w-full my-4">
             <button id="prevBtn" class="bg-pink-300 text-white px-6 py-16 rounded hover:bg-pink-400 mx-2 flex-shrink-0 self-center text-2xl font-bold">←</button>
@@ -66,6 +93,7 @@
     <div class="flex justify-center mt-4 space-x-4">
         <button id="showAllBtn" class="bg-green-300 text-white px-4 py-2 rounded hover:bg-green-400">Hiện tất cả</button>
         <button id="hideAllBtn" class="bg-red-300 text-white px-4 py-2 rounded hover:bg-red-400">Ẩn tất cả</button>
+        <button id="reviewMarkedBtn" class="bg-blue-300 text-white px-4 py-2 rounded hover:bg-blue-400">Ôn lại từ chưa nhớ</button>
     </div>
 
     <script>
@@ -73,6 +101,10 @@
         let currentPage = 0;
         const pageSize = 5;
         let showAll = false; // Biến toàn cục để lưu trạng thái hiện/ẩn
+        let markedWords = []; // Lưu danh sách các từ chưa nhớ
+
+        // Thêm biến để theo dõi trạng thái ôn lại
+        let isReviewing = false;
 
         async function fetchVocab() {
             try {
@@ -137,6 +169,16 @@
                 `;
                 card.appendChild(details);
 
+                // Nút đánh dấu từ chưa nhớ
+                const markBtn = document.createElement('button');
+                markBtn.textContent = markedWords.includes(word) ? 'Bỏ đánh dấu' : 'Chưa nhớ';
+                markBtn.className = 'mt-2 px-4 py-2 rounded text-white ' + (markedWords.includes(word) ? 'bg-red-400 hover:bg-red-500 small-button' : 'bg-blue-400 hover:bg-blue-500 small-button');
+                markBtn.addEventListener('click', (e) => {
+                    e.stopPropagation(); // Ngăn sự kiện click lan ra ngoài
+                    toggleMarkWord(word, markBtn);
+                });
+                card.appendChild(markBtn);
+
                 if (i - start < 2) {
                     row1.appendChild(card);
                 } else {
@@ -153,6 +195,19 @@
             const details = card.querySelector('.hidden-details');
             if (details) {
                 details.style.display = details.style.display === 'none' ? 'block' : 'none';
+            }
+        }
+
+        function toggleMarkWord(word, button) {
+            const index = markedWords.indexOf(word);
+            if (index === -1) {
+                markedWords.push(word);
+                button.textContent = 'Bỏ đánh dấu';
+                button.className = 'mt-2 px-4 py-2 rounded text-white bg-red-400 hover:bg-red-500 small-button'; // Thêm lớp "small-button"
+            } else {
+                markedWords.splice(index, 1);
+                button.textContent = 'Chưa nhớ';
+                button.className = 'mt-2 px-4 py-2 rounded text-white bg-blue-400 hover:bg-blue-500 small-button'; // Thêm lớp "small-button"
             }
         }
 
@@ -220,6 +275,31 @@
             allDetails.forEach(details => {
                 details.style.display = 'none'; // Ẩn tất cả thông tin chi tiết
             });
+        });
+
+        // Ôn lại từ chưa nhớ
+        document.getElementById('reviewMarkedBtn').addEventListener('click', () => {
+            const reviewBtn = document.getElementById('reviewMarkedBtn');
+
+            if (!isReviewing) {
+                // Chuyển sang chế độ ôn lại
+                if (markedWords.length === 0) {
+                    alert('Bạn chưa đánh dấu từ nào!');
+                    return;
+                }
+                vocabData = markedWords; // Chỉ hiển thị các từ đã đánh dấu
+                currentPage = 0;
+                displayWords();
+                reviewBtn.textContent = 'Quay lại'; // Đổi tên nút
+                reviewBtn.className = 'bg-yellow-300 text-white px-4 py-2 rounded hover:bg-yellow-400'; // Đổi màu nút
+                isReviewing = true;
+            } else {
+                // Quay lại chế độ bình thường
+                fetchVocab(); // Tải lại toàn bộ dữ liệu từ vựng
+                reviewBtn.textContent = 'Ôn lại từ chưa nhớ'; // Đổi tên nút
+                reviewBtn.className = 'bg-blue-300 text-white px-4 py-2 rounded hover:bg-blue-400'; // Đổi màu nút
+                isReviewing = false;
+            }
         });
 
         fetchVocab();
